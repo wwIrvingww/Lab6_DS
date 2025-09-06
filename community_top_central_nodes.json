@@ -1,0 +1,5942 @@
+{
+  "0": {
+    "pagerank": [
+      {
+        "node": "traficogt",
+        "pagerank": 0.14777249763109443
+      },
+      {
+        "node": "barevalodeleon",
+        "pagerank": 0.03196022466861026
+      },
+      {
+        "node": "republicagt",
+        "pagerank": 0.003289615998583717
+      },
+      {
+        "node": "cacifguatemala",
+        "pagerank": 0.003177699336051024
+      },
+      {
+        "node": "prensa_libre",
+        "pagerank": 0.002769464947615052
+      },
+      {
+        "node": "statedept",
+        "pagerank": 0.002572087088959367
+      },
+      {
+        "node": "rmendezruiz",
+        "pagerank": 0.0017984753407027526
+      },
+      {
+        "node": "bensywulka",
+        "pagerank": 0.0016706395007263367
+      },
+      {
+        "node": "salva_paiz",
+        "pagerank": 0.0015556130497845061
+      },
+      {
+        "node": "ciengt",
+        "pagerank": 0.001060419860737675
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "traficogt",
+        "betweenness": 0.9892739562296671
+      },
+      {
+        "node": "chofito63569841",
+        "betweenness": 0.012344447043406119
+      },
+      {
+        "node": "angeln8",
+        "betweenness": 0.01157903952488497
+      },
+      {
+        "node": "hellboy17oc",
+        "betweenness": 0.009449798039389438
+      },
+      {
+        "node": "barevalodeleon",
+        "betweenness": 0.00882902822145795
+      },
+      {
+        "node": "cocolocoantillo",
+        "betweenness": 0.004342838348220594
+      },
+      {
+        "node": "comunicalord",
+        "betweenness": 0.0036437353980265457
+      },
+      {
+        "node": "__vadertg",
+        "betweenness": 0.0029157156728831526
+      },
+      {
+        "node": "kroldegarcia",
+        "betweenness": 0.002914917357010318
+      },
+      {
+        "node": "republicagt",
+        "betweenness": 0.0021873854915669903
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "traficogt",
+        "strength_total": 6302.0
+      },
+      {
+        "node": "barevalodeleon",
+        "strength_total": 474.0
+      },
+      {
+        "node": "angeln8",
+        "strength_total": 197.0
+      },
+      {
+        "node": "chofito63569841",
+        "strength_total": 168.0
+      },
+      {
+        "node": "hellboy17oc",
+        "strength_total": 133.0
+      },
+      {
+        "node": "byron96324753",
+        "strength_total": 67.0
+      },
+      {
+        "node": "arthurshp_wf",
+        "strength_total": 64.0
+      },
+      {
+        "node": "prensa_libre",
+        "strength_total": 59.0
+      },
+      {
+        "node": "yani_wen",
+        "strength_total": 57.0
+      },
+      {
+        "node": "ariefialko",
+        "strength_total": 56.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "traficogt",
+        "degree_centrality": 0.7556528081692195
+      },
+      {
+        "node": "barevalodeleon",
+        "degree_centrality": 0.11925601750547046
+      },
+      {
+        "node": "chofito63569841",
+        "degree_centrality": 0.02188183807439825
+      },
+      {
+        "node": "cacifguatemala",
+        "degree_centrality": 0.016046681254558718
+      },
+      {
+        "node": "hellboy17oc",
+        "degree_centrality": 0.012399708242159009
+      },
+      {
+        "node": "prensa_libre",
+        "degree_centrality": 0.010211524434719184
+      },
+      {
+        "node": "ariefialko",
+        "degree_centrality": 0.008023340627279359
+      },
+      {
+        "node": "angeln8",
+        "degree_centrality": 0.008023340627279359
+      },
+      {
+        "node": "cocolocoantillo",
+        "degree_centrality": 0.006199854121079504
+      },
+      {
+        "node": "comunicalord",
+        "degree_centrality": 0.005835156819839533
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "traficogt",
+        "eigenvector": 0.6848468537131428
+      },
+      {
+        "node": "chofito63569841",
+        "eigenvector": 0.14886291987230016
+      },
+      {
+        "node": "angeln8",
+        "eigenvector": 0.12949944076370365
+      },
+      {
+        "node": "hellboy17oc",
+        "eigenvector": 0.1115796257639551
+      },
+      {
+        "node": "arthurshp_wf",
+        "eigenvector": 0.09968481218086524
+      },
+      {
+        "node": "yani_wen",
+        "eigenvector": 0.09790873247648418
+      },
+      {
+        "node": "byron96324753",
+        "eigenvector": 0.0914188353474026
+      },
+      {
+        "node": "barevalodeleon",
+        "eigenvector": 0.07365586734564854
+      },
+      {
+        "node": "herrarturocruz1",
+        "eigenvector": 0.054856130288045216
+      },
+      {
+        "node": "atolypanito",
+        "eigenvector": 0.049386568337481354
+      }
+    ]
+  },
+  "1": {
+    "pagerank": [
+      {
+        "node": "cc_guatemala",
+        "pagerank": 0.02078361375629489
+      },
+      {
+        "node": "mpguatemala",
+        "pagerank": 0.016155599316979897
+      },
+      {
+        "node": "mmendoza_gt",
+        "pagerank": 0.005602283704598469
+      },
+      {
+        "node": "manfredoguate",
+        "pagerank": 0.005054684427953729
+      },
+      {
+        "node": "factor4_gt",
+        "pagerank": 0.003799099878485445
+      },
+      {
+        "node": "congresoguate",
+        "pagerank": 0.0033421425945043396
+      },
+      {
+        "node": "abbffon",
+        "pagerank": 0.0023074421930985
+      },
+      {
+        "node": "ojguatemala",
+        "pagerank": 0.001668278054685614
+      },
+      {
+        "node": "bernardocaal2",
+        "pagerank": 0.0016616340490175298
+      },
+      {
+        "node": "_rahina_",
+        "pagerank": 0.001467555191530274
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "mildred_gaitan",
+        "betweenness": 0.05816226976459349
+      },
+      {
+        "node": "mmendoza_gt",
+        "betweenness": 0.014631222861141019
+      },
+      {
+        "node": "manfredoguate",
+        "betweenness": 0.010193074467880335
+      },
+      {
+        "node": "erwin15",
+        "betweenness": 0.00800324967781302
+      },
+      {
+        "node": "factor4_gt",
+        "betweenness": 0.007277509587995387
+      },
+      {
+        "node": "estelar21362549",
+        "betweenness": 0.005831320468561745
+      },
+      {
+        "node": "cedr2506",
+        "betweenness": 0.004363284104741525
+      },
+      {
+        "node": "citizen_tobino",
+        "betweenness": 0.004345818727479177
+      },
+      {
+        "node": "coperni00829097",
+        "betweenness": 0.0036461525210859614
+      },
+      {
+        "node": "shuteelpobre",
+        "betweenness": 0.0036432475383264802
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "mildred_gaitan",
+        "strength_total": 416.0
+      },
+      {
+        "node": "mmendoza_gt",
+        "strength_total": 206.0
+      },
+      {
+        "node": "mpguatemala",
+        "strength_total": 146.0
+      },
+      {
+        "node": "manfredoguate",
+        "strength_total": 137.0
+      },
+      {
+        "node": "factor4_gt",
+        "strength_total": 130.0
+      },
+      {
+        "node": "cc_guatemala",
+        "strength_total": 114.0
+      },
+      {
+        "node": "estelar21362549",
+        "strength_total": 65.0
+      },
+      {
+        "node": "erwin15",
+        "strength_total": 64.0
+      },
+      {
+        "node": "cedr2506",
+        "strength_total": 57.0
+      },
+      {
+        "node": "mvtrooper",
+        "strength_total": 55.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "mildred_gaitan",
+        "degree_centrality": 0.04522246535375638
+      },
+      {
+        "node": "mmendoza_gt",
+        "degree_centrality": 0.041940189642596645
+      },
+      {
+        "node": "mpguatemala",
+        "degree_centrality": 0.03792851932895697
+      },
+      {
+        "node": "cc_guatemala",
+        "degree_centrality": 0.02954048140043764
+      },
+      {
+        "node": "manfredoguate",
+        "degree_centrality": 0.02188183807439825
+      },
+      {
+        "node": "factor4_gt",
+        "degree_centrality": 0.020423048869438368
+      },
+      {
+        "node": "congresoguate",
+        "degree_centrality": 0.016776075857038657
+      },
+      {
+        "node": "erwin15",
+        "degree_centrality": 0.01349380014587892
+      },
+      {
+        "node": "estelar21362549",
+        "degree_centrality": 0.010940919037199124
+      },
+      {
+        "node": "victorp95913830",
+        "degree_centrality": 0.009482129832239242
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "mildred_gaitan",
+        "eigenvector": 0.2499861135649261
+      },
+      {
+        "node": "manfredoguate",
+        "eigenvector": 0.048256437409649584
+      },
+      {
+        "node": "factor4_gt",
+        "eigenvector": 0.047067193058896964
+      },
+      {
+        "node": "cedr2506",
+        "eigenvector": 0.04395067327010849
+      },
+      {
+        "node": "mvtrooper",
+        "eigenvector": 0.04163872678553823
+      },
+      {
+        "node": "mmendoza_gt",
+        "eigenvector": 0.040180813847840294
+      },
+      {
+        "node": "estelar21362549",
+        "eigenvector": 0.03303625655323569
+      },
+      {
+        "node": "citizen_tobino",
+        "eigenvector": 0.03227013153397613
+      },
+      {
+        "node": "erwin15",
+        "eigenvector": 0.0316005666245826
+      },
+      {
+        "node": "mpguatemala",
+        "eigenvector": 0.03053301032719151
+      }
+    ]
+  },
+  "2": {
+    "pagerank": [
+      {
+        "node": "karinherreravp",
+        "pagerank": 0.0008637776811659552
+      },
+      {
+        "node": "bernardosilvagt",
+        "pagerank": 0.0007320902039473408
+      },
+      {
+        "node": "alvasol_",
+        "pagerank": 0.0006636955653748648
+      },
+      {
+        "node": "comunicaverte_",
+        "pagerank": 0.0005333336809146432
+      },
+      {
+        "node": "moratayayoel",
+        "pagerank": 0.0005169433679740881
+      },
+      {
+        "node": "franciscordl",
+        "pagerank": 0.0003892976645031575
+      },
+      {
+        "node": "quiquenaveda",
+        "pagerank": 0.00038397793909352844
+      },
+      {
+        "node": "banthonycc",
+        "pagerank": 0.0003394193341767218
+      },
+      {
+        "node": "iwpr",
+        "pagerank": 0.0003280226949896298
+      },
+      {
+        "node": "ximeenriquez",
+        "pagerank": 0.00026740556060751377
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "mariacdeleon1",
+        "betweenness": 0.004372828414510083
+      },
+      {
+        "node": "alvasol_",
+        "betweenness": 0.0021873854915669903
+      },
+      {
+        "node": "julioajordan",
+        "betweenness": 0.0021808215610570163
+      },
+      {
+        "node": "pedroernestoto2",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "barregudiel36",
+        "betweenness": 0.0014579908890870487
+      },
+      {
+        "node": "bernardosilvagt",
+        "betweenness": 0.0011855563577151719
+      },
+      {
+        "node": "banthonycc",
+        "betweenness": 0.001097108872456
+      },
+      {
+        "node": "karinherreravp",
+        "betweenness": 0.0007333410917809268
+      },
+      {
+        "node": "jdanieldardon",
+        "betweenness": 0.0007323661115621598
+      },
+      {
+        "node": "franciscordl",
+        "betweenness": 0.0007299268130618315
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "mariacdeleon1",
+        "strength_total": 92.0
+      },
+      {
+        "node": "karinherreravp",
+        "strength_total": 45.0
+      },
+      {
+        "node": "comunicaverte_",
+        "strength_total": 23.0
+      },
+      {
+        "node": "bernardosilvagt",
+        "strength_total": 23.0
+      },
+      {
+        "node": "alvasol_",
+        "strength_total": 21.0
+      },
+      {
+        "node": "julioajordan",
+        "strength_total": 21.0
+      },
+      {
+        "node": "mayorgajoselit",
+        "strength_total": 17.0
+      },
+      {
+        "node": "moratayayoel",
+        "strength_total": 16.0
+      },
+      {
+        "node": "banthonycc",
+        "strength_total": 14.0
+      },
+      {
+        "node": "barregudiel36",
+        "strength_total": 13.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "karinherreravp",
+        "degree_centrality": 0.012399708242159009
+      },
+      {
+        "node": "mariacdeleon1",
+        "degree_centrality": 0.012399708242159009
+      },
+      {
+        "node": "comunicaverte_",
+        "degree_centrality": 0.00437636761487965
+      },
+      {
+        "node": "bernardosilvagt",
+        "degree_centrality": 0.00437636761487965
+      },
+      {
+        "node": "banthonycc",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "alvasol_",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "moratayayoel",
+        "degree_centrality": 0.0032822757111597373
+      },
+      {
+        "node": "barregudiel36",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "mayorgajoselit",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "pedroernestoto2",
+        "degree_centrality": 0.002188183807439825
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "mariacdeleon1",
+        "eigenvector": 0.07069692180883236
+      },
+      {
+        "node": "mayorgajoselit",
+        "eigenvector": 0.014377620006369354
+      },
+      {
+        "node": "julioajordan",
+        "eigenvector": 0.012912519381533736
+      },
+      {
+        "node": "bernardosilvagt",
+        "eigenvector": 0.009117358340099208
+      },
+      {
+        "node": "alvasol_",
+        "eigenvector": 0.008538150395022268
+      },
+      {
+        "node": "karinherreravp",
+        "eigenvector": 0.008283747727539797
+      },
+      {
+        "node": "barregudiel36",
+        "eigenvector": 0.006984257216105572
+      },
+      {
+        "node": "daniel_aag24",
+        "eigenvector": 0.006544982130434703
+      },
+      {
+        "node": "pedroernestoto2",
+        "eigenvector": 0.006347855455109711
+      },
+      {
+        "node": "lemuslimajulioc",
+        "eigenvector": 0.006325593865912931
+      }
+    ]
+  },
+  "3": {
+    "pagerank": [
+      {
+        "node": "laprensa_deoc",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "grismds",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "grismds",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "laprensa_deoc",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "grismds",
+        "strength_total": 3.0
+      },
+      {
+        "node": "laprensa_deoc",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "grismds",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "laprensa_deoc",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "grismds",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "laprensa_deoc",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "4": {
+    "pagerank": [
+      {
+        "node": "guatemalagob",
+        "pagerank": 0.0022350998762583727
+      },
+      {
+        "node": "minsaludguate",
+        "pagerank": 0.000951262981962454
+      },
+      {
+        "node": "fjimenezmingob",
+        "pagerank": 0.000828982036154728
+      },
+      {
+        "node": "mingobguate",
+        "pagerank": 0.0007523021495964857
+      },
+      {
+        "node": "gberganza2023",
+        "pagerank": 0.0005404702703170259
+      },
+      {
+        "node": "jojosamgt",
+        "pagerank": 0.0005343098693414216
+      },
+      {
+        "node": "t1eetc_noticias",
+        "pagerank": 0.0004662327672921715
+      },
+      {
+        "node": "omarlandaverry",
+        "pagerank": 0.00043547528188197707
+      },
+      {
+        "node": "alba_keneth",
+        "pagerank": 0.000382243980516087
+      },
+      {
+        "node": "hugomorales84",
+        "pagerank": 0.00034312004712433794
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "rivera_bambu",
+        "betweenness": 0.002912218289059305
+      },
+      {
+        "node": "zacapaneco5",
+        "betweenness": 0.0021817972804571476
+      },
+      {
+        "node": "renelorca",
+        "betweenness": 0.0014589222576053558
+      },
+      {
+        "node": "rudytejedagt",
+        "betweenness": 0.0014582569943779936
+      },
+      {
+        "node": "lamidupeuplee",
+        "betweenness": 0.0014569264679232692
+      },
+      {
+        "node": "eapablo10_",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "t1eetc_noticias",
+        "betweenness": 7.850106082874237e-06
+      },
+      {
+        "node": "jojosamgt",
+        "betweenness": 7.184842855512012e-06
+      },
+      {
+        "node": "guatemalagob",
+        "betweenness": 5.455158464370231e-06
+      },
+      {
+        "node": "fjimenezmingob",
+        "betweenness": 4.745544355183861e-06
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "guatemalagob",
+        "strength_total": 56.0
+      },
+      {
+        "node": "zacapaneco5",
+        "strength_total": 27.0
+      },
+      {
+        "node": "mingobguate",
+        "strength_total": 23.0
+      },
+      {
+        "node": "piero_coen",
+        "strength_total": 17.0
+      },
+      {
+        "node": "rudytejedagt",
+        "strength_total": 17.0
+      },
+      {
+        "node": "fjimenezmingob",
+        "strength_total": 16.0
+      },
+      {
+        "node": "erwin_fern84019",
+        "strength_total": 14.0
+      },
+      {
+        "node": "jojosamgt",
+        "strength_total": 14.0
+      },
+      {
+        "node": "rivera_bambu",
+        "strength_total": 14.0
+      },
+      {
+        "node": "lamidupeuplee",
+        "strength_total": 11.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "guatemalagob",
+        "degree_centrality": 0.015681983953318747
+      },
+      {
+        "node": "mingobguate",
+        "degree_centrality": 0.008388037928519328
+      },
+      {
+        "node": "zacapaneco5",
+        "degree_centrality": 0.005835156819839533
+      },
+      {
+        "node": "fjimenezmingob",
+        "degree_centrality": 0.004741064916119621
+      },
+      {
+        "node": "piero_coen",
+        "degree_centrality": 0.004741064916119621
+      },
+      {
+        "node": "erwin_fern84019",
+        "degree_centrality": 0.0040116703136396795
+      },
+      {
+        "node": "rivera_bambu",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "bullgarrafuerte",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "mmiaumersons",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "alexdel92022343",
+        "degree_centrality": 0.0032822757111597373
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "guatemalagob",
+        "eigenvector": 0.016017399706258355
+      },
+      {
+        "node": "rudytejedagt",
+        "eigenvector": 0.012798271331830225
+      },
+      {
+        "node": "zacapaneco5",
+        "eigenvector": 0.012363326388296984
+      },
+      {
+        "node": "lamidupeuplee",
+        "eigenvector": 0.00881111658203419
+      },
+      {
+        "node": "renelorca",
+        "eigenvector": 0.0066786459701324635
+      },
+      {
+        "node": "josuelop30",
+        "eigenvector": 0.004530234717468967
+      },
+      {
+        "node": "minsaludguate",
+        "eigenvector": 0.00441042412043776
+      },
+      {
+        "node": "rivera_bambu",
+        "eigenvector": 0.004304968085431451
+      },
+      {
+        "node": "sc_nashi",
+        "eigenvector": 0.004263204269453535
+      },
+      {
+        "node": "nd_marti",
+        "eigenvector": 0.004214678764719615
+      }
+    ]
+  },
+  "5": {
+    "pagerank": [
+      {
+        "node": "alvarotopis",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "mixco",
+        "pagerank": 0.00019742316073685163
+      },
+      {
+        "node": "7ab3e6a4505c45d",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "7ab3e6a4505c45d",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "alvarotopis",
+        "betweenness": 0.0
+      },
+      {
+        "node": "mixco",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "7ab3e6a4505c45d",
+        "strength_total": 4.0
+      },
+      {
+        "node": "alvarotopis",
+        "strength_total": 2.0
+      },
+      {
+        "node": "mixco",
+        "strength_total": 1.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "7ab3e6a4505c45d",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "alvarotopis",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "mixco",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "7ab3e6a4505c45d",
+        "eigenvector": 0.0021029248548661028
+      },
+      {
+        "node": "alvarotopis",
+        "eigenvector": 1.290919179054999e-05
+      },
+      {
+        "node": "mixco",
+        "eigenvector": 6.454595895274995e-06
+      }
+    ]
+  },
+  "6": {
+    "pagerank": [
+      {
+        "node": "jeanellydvg",
+        "pagerank": 0.004144332358070772
+      },
+      {
+        "node": "quorumgt",
+        "pagerank": 0.0041004841892839415
+      },
+      {
+        "node": "sandra_jovelp",
+        "pagerank": 0.003079005322925607
+      },
+      {
+        "node": "bancadasemilla",
+        "pagerank": 0.001611484064750981
+      },
+      {
+        "node": "foppaguate",
+        "pagerank": 0.0011369766198062786
+      },
+      {
+        "node": "servoveritatis",
+        "pagerank": 0.000523450146545939
+      },
+      {
+        "node": "lasmuchedumbres",
+        "pagerank": 0.000388143224068687
+      },
+      {
+        "node": "jdouglas182",
+        "pagerank": 0.00036748750458042703
+      },
+      {
+        "node": "aifanerika",
+        "pagerank": 0.0003612704674613293
+      },
+      {
+        "node": "dianaresident4",
+        "pagerank": 0.00031068686932257455
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "quorumgt",
+        "betweenness": 0.011643157594738144
+      },
+      {
+        "node": "foppaguate",
+        "betweenness": 0.0029154495675922077
+      },
+      {
+        "node": "jeanellydvg",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "cardona_vi41774",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "guiselabarrios",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "angel7910wao",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "villeda_ja",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "dianaresident4",
+        "betweenness": 0.000728596286607107
+      },
+      {
+        "node": "bancadasemilla",
+        "betweenness": 0.0007281971286706896
+      },
+      {
+        "node": "camposser",
+        "betweenness": 0.00037015689479252334
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "quorumgt",
+        "strength_total": 117.0
+      },
+      {
+        "node": "jeanellydvg",
+        "strength_total": 46.0
+      },
+      {
+        "node": "bancadasemilla",
+        "strength_total": 41.0
+      },
+      {
+        "node": "foppaguate",
+        "strength_total": 20.0
+      },
+      {
+        "node": "sandra_jovelp",
+        "strength_total": 17.0
+      },
+      {
+        "node": "innovacion30001",
+        "strength_total": 16.0
+      },
+      {
+        "node": "castillogust",
+        "strength_total": 13.0
+      },
+      {
+        "node": "silvia13fernand",
+        "strength_total": 12.0
+      },
+      {
+        "node": "angel7910wao",
+        "strength_total": 11.0
+      },
+      {
+        "node": "ivo987654321",
+        "strength_total": 10.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "quorumgt",
+        "degree_centrality": 0.020058351568198397
+      },
+      {
+        "node": "jeanellydvg",
+        "degree_centrality": 0.010576221735959153
+      },
+      {
+        "node": "bancadasemilla",
+        "degree_centrality": 0.009846827133479213
+      },
+      {
+        "node": "sandra_jovelp",
+        "degree_centrality": 0.005835156819839533
+      },
+      {
+        "node": "foppaguate",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "innovacion30001",
+        "degree_centrality": 0.0032822757111597373
+      },
+      {
+        "node": "camposser",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "ivo987654321",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "marvinr92783742",
+        "degree_centrality": 0.002188183807439825
+      },
+      {
+        "node": "jdouglas182",
+        "degree_centrality": 0.002188183807439825
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "quorumgt",
+        "eigenvector": 0.033471697544328445
+      },
+      {
+        "node": "innovacion30001",
+        "eigenvector": 0.013378181059879849
+      },
+      {
+        "node": "jeanellydvg",
+        "eigenvector": 0.012199795519344282
+      },
+      {
+        "node": "silvia13fernand",
+        "eigenvector": 0.011106175913375097
+      },
+      {
+        "node": "castillogust",
+        "eigenvector": 0.00955868573406964
+      },
+      {
+        "node": "angel7910wao",
+        "eigenvector": 0.009037528996247685
+      },
+      {
+        "node": "bancadasemilla",
+        "eigenvector": 0.007677110267115206
+      },
+      {
+        "node": "rocaguate2022",
+        "eigenvector": 0.00766044345579931
+      },
+      {
+        "node": "foppaguate",
+        "eigenvector": 0.006910729567178421
+      },
+      {
+        "node": "ag_medina",
+        "eigenvector": 0.006674366333286413
+      }
+    ]
+  },
+  "7": {
+    "pagerank": [
+      {
+        "node": "samuel_pz",
+        "pagerank": 0.003632953273031513
+      },
+      {
+        "node": "emisorasunidas",
+        "pagerank": 0.003376299467182589
+      },
+      {
+        "node": "hshetemul",
+        "pagerank": 0.0020847821684456835
+      },
+      {
+        "node": "noel_solis",
+        "pagerank": 0.0016989857068406306
+      },
+      {
+        "node": "soy_502",
+        "pagerank": 0.0016778087620535507
+      },
+      {
+        "node": "pedgar05",
+        "pagerank": 0.001348661863858034
+      },
+      {
+        "node": "pialaperiodista",
+        "pagerank": 0.0012478331151427483
+      },
+      {
+        "node": "isapaiz_",
+        "pagerank": 0.0010897927295691352
+      },
+      {
+        "node": "fiaheisenberg",
+        "pagerank": 0.0009536786833097961
+      },
+      {
+        "node": "guatevision_tv",
+        "pagerank": 0.0007345975925906234
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "cubreserva",
+        "betweenness": 0.030322631376847403
+      },
+      {
+        "node": "emisorasunidas",
+        "betweenness": 0.005829391205202394
+      },
+      {
+        "node": "samuel_pz",
+        "betweenness": 0.005105185655895878
+      },
+      {
+        "node": "hshetemul",
+        "betweenness": 0.005103810778559329
+      },
+      {
+        "node": "nilrilesor",
+        "betweenness": 0.0021988280190776205
+      },
+      {
+        "node": "pedgar05",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "fiaheisenberg",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "gigantedecolch",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "josechic86",
+        "betweenness": 0.0014582569943779936
+      },
+      {
+        "node": "marinae41953239",
+        "betweenness": 0.0010969081847157461
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "cubreserva",
+        "strength_total": 177.0
+      },
+      {
+        "node": "hshetemul",
+        "strength_total": 106.0
+      },
+      {
+        "node": "emisorasunidas",
+        "strength_total": 103.0
+      },
+      {
+        "node": "nilrilesor",
+        "strength_total": 103.0
+      },
+      {
+        "node": "samuel_pz",
+        "strength_total": 82.0
+      },
+      {
+        "node": "soy_502",
+        "strength_total": 69.0
+      },
+      {
+        "node": "pedgar05",
+        "strength_total": 42.0
+      },
+      {
+        "node": "pialaperiodista",
+        "strength_total": 38.0
+      },
+      {
+        "node": "guatevision_tv",
+        "strength_total": 35.0
+      },
+      {
+        "node": "isapaiz_",
+        "strength_total": 27.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "samuel_pz",
+        "degree_centrality": 0.020058351568198397
+      },
+      {
+        "node": "emisorasunidas",
+        "degree_centrality": 0.019328956965718454
+      },
+      {
+        "node": "cubreserva",
+        "degree_centrality": 0.019328956965718454
+      },
+      {
+        "node": "hshetemul",
+        "degree_centrality": 0.01787016776075857
+      },
+      {
+        "node": "nilrilesor",
+        "degree_centrality": 0.01349380014587892
+      },
+      {
+        "node": "pialaperiodista",
+        "degree_centrality": 0.011670313639679067
+      },
+      {
+        "node": "soy_502",
+        "degree_centrality": 0.011305616338439095
+      },
+      {
+        "node": "guatevision_tv",
+        "degree_centrality": 0.008023340627279359
+      },
+      {
+        "node": "pedgar05",
+        "degree_centrality": 0.007658643326039387
+      },
+      {
+        "node": "mariabonita9697",
+        "degree_centrality": 0.007293946024799417
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "emisorasunidas",
+        "eigenvector": 0.03413508640516783
+      },
+      {
+        "node": "cubreserva",
+        "eigenvector": 0.03323922712313323
+      },
+      {
+        "node": "hshetemul",
+        "eigenvector": 0.023187212057280283
+      },
+      {
+        "node": "soy_502",
+        "eigenvector": 0.021443040486769115
+      },
+      {
+        "node": "byron_fiesta",
+        "eigenvector": 0.017149511324260524
+      },
+      {
+        "node": "pedgar05",
+        "eigenvector": 0.016872659381641147
+      },
+      {
+        "node": "nilrilesor",
+        "eigenvector": 0.016195459988049877
+      },
+      {
+        "node": "mariabonita9697",
+        "eigenvector": 0.015758573701305467
+      },
+      {
+        "node": "isapaiz_",
+        "eigenvector": 0.01078248030248978
+      },
+      {
+        "node": "yeya16155804",
+        "eigenvector": 0.010639132899773423
+      }
+    ]
+  },
+  "8": {
+    "pagerank": [
+      {
+        "node": "jpablocast",
+        "pagerank": 0.0005921195354453673
+      },
+      {
+        "node": "mundocrema",
+        "pagerank": 0.0003013227998391956
+      },
+      {
+        "node": "y_piramide",
+        "pagerank": 0.00016278994770273691
+      },
+      {
+        "node": "justderekgt",
+        "pagerank": 0.00016278994770273691
+      },
+      {
+        "node": "sebastorresaz",
+        "pagerank": 0.00016278994770273691
+      },
+      {
+        "node": "andreslope87296",
+        "pagerank": 0.00016278994770273691
+      },
+      {
+        "node": "intuitscreto",
+        "pagerank": 0.00016278994770273691
+      },
+      {
+        "node": "justicia_guate_",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "mundocrema",
+        "betweenness": 0.00036809014369951817
+      },
+      {
+        "node": "jpablocast",
+        "betweenness": 4.656842591535564e-06
+      },
+      {
+        "node": "sebastorresaz",
+        "betweenness": 1.197473809252002e-06
+      },
+      {
+        "node": "y_piramide",
+        "betweenness": 0.0
+      },
+      {
+        "node": "justderekgt",
+        "betweenness": 0.0
+      },
+      {
+        "node": "andreslope87296",
+        "betweenness": 0.0
+      },
+      {
+        "node": "intuitscreto",
+        "betweenness": 0.0
+      },
+      {
+        "node": "justicia_guate_",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "jpablocast",
+        "strength_total": 14.0
+      },
+      {
+        "node": "mundocrema",
+        "strength_total": 6.0
+      },
+      {
+        "node": "sebastorresaz",
+        "strength_total": 6.0
+      },
+      {
+        "node": "justicia_guate_",
+        "strength_total": 5.0
+      },
+      {
+        "node": "justderekgt",
+        "strength_total": 3.0
+      },
+      {
+        "node": "y_piramide",
+        "strength_total": 3.0
+      },
+      {
+        "node": "andreslope87296",
+        "strength_total": 3.0
+      },
+      {
+        "node": "intuitscreto",
+        "strength_total": 3.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "jpablocast",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "mundocrema",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "sebastorresaz",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "y_piramide",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "justderekgt",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "andreslope87296",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "intuitscreto",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "justicia_guate_",
+        "degree_centrality": 0.0007293946024799417
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "justicia_guate_",
+        "eigenvector": 0.006310173873130265
+      },
+      {
+        "node": "mundocrema",
+        "eigenvector": 0.004244707721545698
+      },
+      {
+        "node": "sebastorresaz",
+        "eigenvector": 0.004233405134233642
+      },
+      {
+        "node": "y_piramide",
+        "eigenvector": 0.0021288827757329357
+      },
+      {
+        "node": "andreslope87296",
+        "eigenvector": 0.0021045223585007067
+      },
+      {
+        "node": "justderekgt",
+        "eigenvector": 0.0021045223585007067
+      },
+      {
+        "node": "intuitscreto",
+        "eigenvector": 0.0021045223585007067
+      },
+      {
+        "node": "jpablocast",
+        "eigenvector": 0.00027626646581680847
+      }
+    ]
+  },
+  "9": {
+    "pagerank": [
+      {
+        "node": "lahoragt",
+        "pagerank": 0.01736262027836427
+      },
+      {
+        "node": "ricigt1",
+        "pagerank": 0.0032398203169798135
+      },
+      {
+        "node": "figueroasarti",
+        "pagerank": 0.0015966168108682464
+      },
+      {
+        "node": "oco_motora",
+        "pagerank": 0.0013028063883343457
+      },
+      {
+        "node": "ueguatemala",
+        "pagerank": 0.0012593873243401175
+      },
+      {
+        "node": "goyo_saavedra",
+        "pagerank": 0.000735977593349571
+      },
+      {
+        "node": "esta_busqueda",
+        "pagerank": 0.0007182274159729967
+      },
+      {
+        "node": "72_cpineda",
+        "pagerank": 0.0007011527852707316
+      },
+      {
+        "node": "quiquegodoy",
+        "pagerank": 0.0006843331804639518
+      },
+      {
+        "node": "satgt",
+        "pagerank": 0.0005845993950736779
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "lahoragt",
+        "betweenness": 0.012392798374770812
+      },
+      {
+        "node": "ldubon63",
+        "betweenness": 0.00943879902069705
+      },
+      {
+        "node": "miss_pattygt",
+        "betweenness": 0.008732910385583907
+      },
+      {
+        "node": "erosan3edsa",
+        "betweenness": 0.005817327765346226
+      },
+      {
+        "node": "ricigt1",
+        "betweenness": 0.005104830848841285
+      },
+      {
+        "node": "roanchi2",
+        "betweenness": 0.004369714982606028
+      },
+      {
+        "node": "papaabumario",
+        "betweenness": 0.004361332665941264
+      },
+      {
+        "node": "lopezmadrrox",
+        "betweenness": 0.00291611483081957
+      },
+      {
+        "node": "figueroasarti",
+        "betweenness": 0.0029159817781740974
+      },
+      {
+        "node": "chilaberta",
+        "betweenness": 0.0021873854915669903
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "lahoragt",
+        "strength_total": 311.0
+      },
+      {
+        "node": "ricigt1",
+        "strength_total": 153.0
+      },
+      {
+        "node": "papaabumario",
+        "strength_total": 107.0
+      },
+      {
+        "node": "ldubon63",
+        "strength_total": 99.0
+      },
+      {
+        "node": "erosan3edsa",
+        "strength_total": 76.0
+      },
+      {
+        "node": "roanchi2",
+        "strength_total": 62.0
+      },
+      {
+        "node": "figueroasarti",
+        "strength_total": 39.0
+      },
+      {
+        "node": "lukassgtm",
+        "strength_total": 37.0
+      },
+      {
+        "node": "chilaberta",
+        "strength_total": 35.0
+      },
+      {
+        "node": "mariochiu2",
+        "strength_total": 34.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "lahoragt",
+        "degree_centrality": 0.03391684901531729
+      },
+      {
+        "node": "ricigt1",
+        "degree_centrality": 0.023340627279358133
+      },
+      {
+        "node": "erosan3edsa",
+        "degree_centrality": 0.011670313639679067
+      },
+      {
+        "node": "papaabumario",
+        "degree_centrality": 0.009846827133479213
+      },
+      {
+        "node": "ldubon63",
+        "degree_centrality": 0.00911743253099927
+      },
+      {
+        "node": "roanchi2",
+        "degree_centrality": 0.008023340627279359
+      },
+      {
+        "node": "figueroasarti",
+        "degree_centrality": 0.006564551422319475
+      },
+      {
+        "node": "miss_pattygt",
+        "degree_centrality": 0.005835156819839533
+      },
+      {
+        "node": "lukassgtm",
+        "degree_centrality": 0.005835156819839533
+      },
+      {
+        "node": "lopezmadrrox",
+        "degree_centrality": 0.005835156819839533
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "lahoragt",
+        "eigenvector": 0.194092050679321
+      },
+      {
+        "node": "papaabumario",
+        "eigenvector": 0.1025036893082593
+      },
+      {
+        "node": "ldubon63",
+        "eigenvector": 0.08028992837436803
+      },
+      {
+        "node": "erosan3edsa",
+        "eigenvector": 0.05494940365921329
+      },
+      {
+        "node": "roanchi2",
+        "eigenvector": 0.04260998141982507
+      },
+      {
+        "node": "ricigt1",
+        "eigenvector": 0.03998538126121282
+      },
+      {
+        "node": "mariochiu2",
+        "eigenvector": 0.03159440438568239
+      },
+      {
+        "node": "lukassgtm",
+        "eigenvector": 0.028694727110029173
+      },
+      {
+        "node": "chilaberta",
+        "eigenvector": 0.02738620486193142
+      },
+      {
+        "node": "auramarinabola4",
+        "eigenvector": 0.023390608536744514
+      }
+    ]
+  },
+  "10": {
+    "pagerank": [
+      {
+        "node": "rodrigokestler",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "edwinquiran502",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "edwinquiran502",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "rodrigokestler",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "edwinquiran502",
+        "strength_total": 6.0
+      },
+      {
+        "node": "rodrigokestler",
+        "strength_total": 4.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "edwinquiran502",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "rodrigokestler",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "edwinquiran502",
+        "eigenvector": 0.004206285804719502
+      },
+      {
+        "node": "rodrigokestler",
+        "eigenvector": 5.1642121073242846e-05
+      }
+    ]
+  },
+  "11": {
+    "pagerank": [
+      {
+        "node": "amilcarmontejo",
+        "pagerank": 0.0046692491613094834
+      },
+      {
+        "node": "aztecanoticiagt",
+        "pagerank": 0.004332021531393155
+      },
+      {
+        "node": "muniguate",
+        "pagerank": 0.004290100863187564
+      },
+      {
+        "node": "dorjaen",
+        "pagerank": 0.0028179693172952587
+      },
+      {
+        "node": "pncdeguatemala",
+        "pagerank": 0.002290421054725813
+      },
+      {
+        "node": "marcoscahuex___",
+        "pagerank": 0.001997845391136866
+      },
+      {
+        "node": "arlettg_",
+        "pagerank": 0.0016325135255042822
+      },
+      {
+        "node": "rquinonezl",
+        "pagerank": 0.0013354249304348355
+      },
+      {
+        "node": "pmtmuniguate",
+        "pagerank": 0.0008043344238219752
+      },
+      {
+        "node": "jp_garrido5",
+        "pagerank": 0.0007744750955141134
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "alejandro2024gt",
+        "betweenness": 0.019214132532675735
+      },
+      {
+        "node": "amilcarmontejo",
+        "betweenness": 0.010777232028081238
+      },
+      {
+        "node": "aztecanoticiagt",
+        "betweenness": 0.005830109689487945
+      },
+      {
+        "node": "estaciondoblea",
+        "betweenness": 0.005465291532095003
+      },
+      {
+        "node": "florydeprez2",
+        "betweenness": 0.0050828771623383315
+      },
+      {
+        "node": "soyflordemaria",
+        "betweenness": 0.004372376035515477
+      },
+      {
+        "node": "guillepefe2012",
+        "betweenness": 0.0036592286394104482
+      },
+      {
+        "node": "honor182",
+        "betweenness": 0.0036395220642532517
+      },
+      {
+        "node": "glennavi",
+        "betweenness": 0.0036364618534073852
+      },
+      {
+        "node": "molinerosed",
+        "betweenness": 0.0032686910360569988
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "amilcarmontejo",
+        "strength_total": 225.0
+      },
+      {
+        "node": "alejandro2024gt",
+        "strength_total": 161.0
+      },
+      {
+        "node": "muniguate",
+        "strength_total": 103.0
+      },
+      {
+        "node": "florydeprez2",
+        "strength_total": 85.0
+      },
+      {
+        "node": "aztecanoticiagt",
+        "strength_total": 77.0
+      },
+      {
+        "node": "pmtmuniguate",
+        "strength_total": 44.0
+      },
+      {
+        "node": "pncdeguatemala",
+        "strength_total": 41.0
+      },
+      {
+        "node": "honor182",
+        "strength_total": 39.0
+      },
+      {
+        "node": "guillepefe2012",
+        "strength_total": 38.0
+      },
+      {
+        "node": "rquinonezl",
+        "strength_total": 34.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "amilcarmontejo",
+        "degree_centrality": 0.033187454412837346
+      },
+      {
+        "node": "muniguate",
+        "degree_centrality": 0.024070021881838075
+      },
+      {
+        "node": "pncdeguatemala",
+        "degree_centrality": 0.01276440554339898
+      },
+      {
+        "node": "aztecanoticiagt",
+        "degree_centrality": 0.010576221735959153
+      },
+      {
+        "node": "pmtmuniguate",
+        "degree_centrality": 0.008388037928519328
+      },
+      {
+        "node": "estaciondoblea",
+        "degree_centrality": 0.008023340627279359
+      },
+      {
+        "node": "rquinonezl",
+        "degree_centrality": 0.006564551422319475
+      },
+      {
+        "node": "alejandro2024gt",
+        "degree_centrality": 0.005835156819839533
+      },
+      {
+        "node": "honor182",
+        "degree_centrality": 0.005470459518599562
+      },
+      {
+        "node": "guillepefe2012",
+        "degree_centrality": 0.005105762217359592
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "alejandro2024gt",
+        "eigenvector": 0.08025300882782478
+      },
+      {
+        "node": "aztecanoticiagt",
+        "eigenvector": 0.04995405964118777
+      },
+      {
+        "node": "florydeprez2",
+        "eigenvector": 0.034214472423832895
+      },
+      {
+        "node": "clauflor7",
+        "eigenvector": 0.025672352954365433
+      },
+      {
+        "node": "amilcarmontejo",
+        "eigenvector": 0.025087033440691298
+      },
+      {
+        "node": "honor182",
+        "eigenvector": 0.02419034328559204
+      },
+      {
+        "node": "glennavi",
+        "eigenvector": 0.019435552584777322
+      },
+      {
+        "node": "betocardonam",
+        "eigenvector": 0.01292848191865263
+      },
+      {
+        "node": "joffar28",
+        "eigenvector": 0.012926561826624581
+      },
+      {
+        "node": "guillepefe2012",
+        "eigenvector": 0.011531177511297825
+      }
+    ]
+  },
+  "12": {
+    "pagerank": [
+      {
+        "node": "franas91",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "vicmaldonados",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "vicmaldonados",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "franas91",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "vicmaldonados",
+        "strength_total": 3.0
+      },
+      {
+        "node": "franas91",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "vicmaldonados",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "franas91",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "vicmaldonados",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "franas91",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "13": {
+    "pagerank": [
+      {
+        "node": "justiciayagt",
+        "pagerank": 0.001865131829891641
+      },
+      {
+        "node": "amaldonadogt",
+        "pagerank": 0.0017087658282037865
+      },
+      {
+        "node": "belen_barillas",
+        "pagerank": 0.00070378024596754
+      },
+      {
+        "node": "facticagt",
+        "pagerank": 0.0006323873439077906
+      },
+      {
+        "node": "carlos_ruano_",
+        "pagerank": 0.0005585665699778256
+      },
+      {
+        "node": "papxigua",
+        "pagerank": 0.0004835968941066293
+      },
+      {
+        "node": "91072dff5a5a4f1",
+        "pagerank": 0.00032902937026648744
+      },
+      {
+        "node": "ottochacon5",
+        "pagerank": 0.0002436007781156712
+      },
+      {
+        "node": "marioomeany",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "andream77rl",
+        "pagerank": 0.00020896756508155653
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "andream77rl",
+        "betweenness": 0.002186986333630573
+      },
+      {
+        "node": "91072dff5a5a4f1",
+        "betweenness": 0.0021865871756941557
+      },
+      {
+        "node": "ottochacon5",
+        "betweenness": 0.0007276649180887999
+      },
+      {
+        "node": "facticagt",
+        "betweenness": 0.0003684449507541113
+      },
+      {
+        "node": "marioomeany",
+        "betweenness": 0.00036809014369951817
+      },
+      {
+        "node": "papxigua",
+        "betweenness": 1.0644211637795574e-06
+      },
+      {
+        "node": "carlos_ruano_",
+        "betweenness": 2.6610529094488935e-07
+      },
+      {
+        "node": "amaldonadogt",
+        "betweenness": 0.0
+      },
+      {
+        "node": "justiciayagt",
+        "betweenness": 0.0
+      },
+      {
+        "node": "belen_barillas",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "justiciayagt",
+        "strength_total": 37.0
+      },
+      {
+        "node": "andream77rl",
+        "strength_total": 21.0
+      },
+      {
+        "node": "91072dff5a5a4f1",
+        "strength_total": 19.0
+      },
+      {
+        "node": "ottochacon5",
+        "strength_total": 18.0
+      },
+      {
+        "node": "carlos_ruano_",
+        "strength_total": 14.0
+      },
+      {
+        "node": "mlopezguate",
+        "strength_total": 14.0
+      },
+      {
+        "node": "papxigua",
+        "strength_total": 14.0
+      },
+      {
+        "node": "facticagt",
+        "strength_total": 9.0
+      },
+      {
+        "node": "se_cardona3",
+        "strength_total": 9.0
+      },
+      {
+        "node": "c8f9a667e131454",
+        "strength_total": 9.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "justiciayagt",
+        "degree_centrality": 0.007293946024799417
+      },
+      {
+        "node": "carlos_ruano_",
+        "degree_centrality": 0.0032822757111597373
+      },
+      {
+        "node": "91072dff5a5a4f1",
+        "degree_centrality": 0.0032822757111597373
+      },
+      {
+        "node": "ottochacon5",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "andream77rl",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "mlopezguate",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "papxigua",
+        "degree_centrality": 0.002188183807439825
+      },
+      {
+        "node": "amaldonadogt",
+        "degree_centrality": 0.0018234865061998542
+      },
+      {
+        "node": "facticagt",
+        "degree_centrality": 0.0018234865061998542
+      },
+      {
+        "node": "moyimozo",
+        "degree_centrality": 0.0018234865061998542
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "andream77rl",
+        "eigenvector": 0.016680916249770177
+      },
+      {
+        "node": "justiciayagt",
+        "eigenvector": 0.011888187739004087
+      },
+      {
+        "node": "91072dff5a5a4f1",
+        "eigenvector": 0.011005386957182822
+      },
+      {
+        "node": "ottochacon5",
+        "eigenvector": 0.008962738746617526
+      },
+      {
+        "node": "mlopezguate",
+        "eigenvector": 0.007926379799663721
+      },
+      {
+        "node": "c8f9a667e131454",
+        "eigenvector": 0.0065575998383395106
+      },
+      {
+        "node": "se_cardona3",
+        "eigenvector": 0.006393591599338324
+      },
+      {
+        "node": "belen_barillas",
+        "eigenvector": 0.006381463176485643
+      },
+      {
+        "node": "facticagt",
+        "eigenvector": 0.0045010453325332505
+      },
+      {
+        "node": "jramiroh",
+        "eigenvector": 0.004482241766642032
+      }
+    ]
+  },
+  "14": {
+    "pagerank": [
+      {
+        "node": "drgiammattei",
+        "pagerank": 0.013719605190161448
+      },
+      {
+        "node": "prensacomunitar",
+        "pagerank": 0.011930071132470925
+      },
+      {
+        "node": "plazapublicagt",
+        "pagerank": 0.003046317526700948
+      },
+      {
+        "node": "acguatemala",
+        "pagerank": 0.002507843994685858
+      },
+      {
+        "node": "ferdymontepeque",
+        "pagerank": 0.001896189716656081
+      },
+      {
+        "node": "ejercito_gt",
+        "pagerank": 0.0016911129197985117
+      },
+      {
+        "node": "alex_balsells",
+        "pagerank": 0.001673263260729011
+      },
+      {
+        "node": "rafa_mal0072",
+        "pagerank": 0.0016209857621339034
+      },
+      {
+        "node": "guss_marro",
+        "pagerank": 0.0016167725050430578
+      },
+      {
+        "node": "sonny_figueroa",
+        "pagerank": 0.0016082924206075907
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "batallonjalapa",
+        "betweenness": 0.07515603305488963
+      },
+      {
+        "node": "prensacomunitar",
+        "betweenness": 0.023239870946030028
+      },
+      {
+        "node": "sonny_figueroa",
+        "betweenness": 0.005826508397883825
+      },
+      {
+        "node": "edwadriperez",
+        "betweenness": 0.004373706561970201
+      },
+      {
+        "node": "erickva65891293",
+        "betweenness": 0.004372376035515477
+      },
+      {
+        "node": "rafa_mal0072",
+        "betweenness": 0.0043698480352515005
+      },
+      {
+        "node": "aurabenitez",
+        "betweenness": 0.003644755468308501
+      },
+      {
+        "node": "plazapublicagt",
+        "betweenness": 0.0021937276676678432
+      },
+      {
+        "node": "dfernandezg",
+        "betweenness": 0.0021873854915669903
+      },
+      {
+        "node": "oemc311",
+        "betweenness": 0.0021868532809851005
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "batallonjalapa",
+        "strength_total": 459.0
+      },
+      {
+        "node": "prensacomunitar",
+        "strength_total": 330.0
+      },
+      {
+        "node": "drgiammattei",
+        "strength_total": 187.0
+      },
+      {
+        "node": "alex_balsells",
+        "strength_total": 82.0
+      },
+      {
+        "node": "plazapublicagt",
+        "strength_total": 80.0
+      },
+      {
+        "node": "aurabenitez",
+        "strength_total": 71.0
+      },
+      {
+        "node": "sonny_figueroa",
+        "strength_total": 61.0
+      },
+      {
+        "node": "guss_marro",
+        "strength_total": 57.0
+      },
+      {
+        "node": "oemc311",
+        "strength_total": 55.0
+      },
+      {
+        "node": "edwadriperez",
+        "strength_total": 52.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "drgiammattei",
+        "degree_centrality": 0.04850474106491612
+      },
+      {
+        "node": "prensacomunitar",
+        "degree_centrality": 0.047775346462436176
+      },
+      {
+        "node": "batallonjalapa",
+        "degree_centrality": 0.04048140043763676
+      },
+      {
+        "node": "plazapublicagt",
+        "degree_centrality": 0.014223194748358862
+      },
+      {
+        "node": "alex_balsells",
+        "degree_centrality": 0.013858497447118891
+      },
+      {
+        "node": "sonny_figueroa",
+        "degree_centrality": 0.01276440554339898
+      },
+      {
+        "node": "edwadriperez",
+        "degree_centrality": 0.011305616338439095
+      },
+      {
+        "node": "aurabenitez",
+        "degree_centrality": 0.010211524434719184
+      },
+      {
+        "node": "guss_marro",
+        "degree_centrality": 0.0087527352297593
+      },
+      {
+        "node": "rafa_mal0072",
+        "degree_centrality": 0.008388037928519328
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "batallonjalapa",
+        "eigenvector": 0.3388332726320728
+      },
+      {
+        "node": "prensacomunitar",
+        "eigenvector": 0.1219906853712377
+      },
+      {
+        "node": "drgiammattei",
+        "eigenvector": 0.0897253997178854
+      },
+      {
+        "node": "aurabenitez",
+        "eigenvector": 0.05396010388552525
+      },
+      {
+        "node": "oemc311",
+        "eigenvector": 0.04234341900557269
+      },
+      {
+        "node": "eliezerpinist",
+        "eigenvector": 0.0355791696733071
+      },
+      {
+        "node": "plazapublicagt",
+        "eigenvector": 0.03533247696285894
+      },
+      {
+        "node": "edberb",
+        "eigenvector": 0.03342407380528214
+      },
+      {
+        "node": "jl2maeu",
+        "eigenvector": 0.025765934849305987
+      },
+      {
+        "node": "alex_balsells",
+        "eigenvector": 0.02540498754916336
+      }
+    ]
+  },
+  "15": {
+    "pagerank": [
+      {
+        "node": "ximenabarrera__",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "figueroarlette",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "figueroarlette",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "ximenabarrera__",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "figueroarlette",
+        "strength_total": 3.0
+      },
+      {
+        "node": "ximenabarrera__",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "figueroarlette",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "ximenabarrera__",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "figueroarlette",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "ximenabarrera__",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "16": {
+    "pagerank": [
+      {
+        "node": "darwinhk",
+        "pagerank": 0.002404258263142965
+      },
+      {
+        "node": "edgar_ortizgt",
+        "pagerank": 0.001132244083951318
+      },
+      {
+        "node": "camcomerciogt",
+        "pagerank": 0.0007068855039530447
+      },
+      {
+        "node": "porqtendenciagt",
+        "pagerank": 0.0006377641599585014
+      },
+      {
+        "node": "doccoke77",
+        "pagerank": 0.0002716371886670974
+      },
+      {
+        "node": "drmarcopaez",
+        "pagerank": 0.0002632941737625207
+      },
+      {
+        "node": "cermenoitalo",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "lourdeshercules",
+        "pagerank": 0.00018410269418526906
+      },
+      {
+        "node": "carestg",
+        "pagerank": 0.00017607146125671135
+      },
+      {
+        "node": "rherreramarmol",
+        "pagerank": 0.0001709389390048816
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "darwinhk",
+        "betweenness": 0.005101105374768057
+      },
+      {
+        "node": "licopatron",
+        "betweenness": 0.002186720228339628
+      },
+      {
+        "node": "edgar_ortizgt",
+        "betweenness": 0.0014582569943779936
+      },
+      {
+        "node": "molioscar_",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "jotiaalvarez",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "mcampie",
+        "betweenness": 0.0007291284971889968
+      },
+      {
+        "node": "drmarcopaez",
+        "betweenness": 1.197473809252002e-06
+      },
+      {
+        "node": "porqtendenciagt",
+        "betweenness": 9.313685183071127e-07
+      },
+      {
+        "node": "doccoke77",
+        "betweenness": 2.6610529094488935e-07
+      },
+      {
+        "node": "rherreramarmol",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "darwinhk",
+        "strength_total": 65.0
+      },
+      {
+        "node": "licopatron",
+        "strength_total": 34.0
+      },
+      {
+        "node": "edgar_ortizgt",
+        "strength_total": 22.0
+      },
+      {
+        "node": "porqtendenciagt",
+        "strength_total": 15.0
+      },
+      {
+        "node": "jotiaalvarez",
+        "strength_total": 13.0
+      },
+      {
+        "node": "jjpnewsgtactua",
+        "strength_total": 11.0
+      },
+      {
+        "node": "lunacrescentegt",
+        "strength_total": 9.0
+      },
+      {
+        "node": "tonoperre",
+        "strength_total": 8.0
+      },
+      {
+        "node": "ger0930",
+        "strength_total": 7.0
+      },
+      {
+        "node": "mcampie",
+        "strength_total": 7.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "darwinhk",
+        "degree_centrality": 0.009846827133479213
+      },
+      {
+        "node": "edgar_ortizgt",
+        "degree_centrality": 0.0040116703136396795
+      },
+      {
+        "node": "licopatron",
+        "degree_centrality": 0.0040116703136396795
+      },
+      {
+        "node": "porqtendenciagt",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "jotiaalvarez",
+        "degree_centrality": 0.002188183807439825
+      },
+      {
+        "node": "tonoperre",
+        "degree_centrality": 0.0018234865061998542
+      },
+      {
+        "node": "ger0930",
+        "degree_centrality": 0.0014587892049598833
+      },
+      {
+        "node": "lunacrescentegt",
+        "degree_centrality": 0.0014587892049598833
+      },
+      {
+        "node": "mcampie",
+        "degree_centrality": 0.0014587892049598833
+      },
+      {
+        "node": "jjpnewsgtactua",
+        "degree_centrality": 0.0014587892049598833
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "darwinhk",
+        "eigenvector": 0.028494740999685433
+      },
+      {
+        "node": "licopatron",
+        "eigenvector": 0.02647648068617534
+      },
+      {
+        "node": "jjpnewsgtactua",
+        "eigenvector": 0.010870056860052765
+      },
+      {
+        "node": "edgar_ortizgt",
+        "eigenvector": 0.009455332448042737
+      },
+      {
+        "node": "jotiaalvarez",
+        "eigenvector": 0.008830227684284176
+      },
+      {
+        "node": "lunacrescentegt",
+        "eigenvector": 0.006654819547547498
+      },
+      {
+        "node": "tonoperre",
+        "eigenvector": 0.0046108057622292085
+      },
+      {
+        "node": "ger0930",
+        "eigenvector": 0.004492710318805027
+      },
+      {
+        "node": "mcampie",
+        "eigenvector": 0.004337852468398204
+      },
+      {
+        "node": "kok3alparedes",
+        "eigenvector": 0.0042287530382613655
+      }
+    ]
+  },
+  "17": {
+    "pagerank": [
+      {
+        "node": "munivcanales",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "efonseca2841",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "efonseca2841",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "munivcanales",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "efonseca2841",
+        "strength_total": 6.0
+      },
+      {
+        "node": "munivcanales",
+        "strength_total": 4.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "efonseca2841",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "munivcanales",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "efonseca2841",
+        "eigenvector": 0.004206285804719502
+      },
+      {
+        "node": "munivcanales",
+        "eigenvector": 5.1642121073242846e-05
+      }
+    ]
+  },
+  "18": {
+    "pagerank": [
+      {
+        "node": "h_fabiola",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "luchofcb80",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "luchofcb80",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "h_fabiola",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "luchofcb80",
+        "strength_total": 4.0
+      },
+      {
+        "node": "h_fabiola",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "luchofcb80",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "h_fabiola",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "luchofcb80",
+        "eigenvector": 0.002329038731782892
+      },
+      {
+        "node": "h_fabiola",
+        "eigenvector": 1.4297470327046663e-05
+      }
+    ]
+  },
+  "19": {
+    "pagerank": [
+      {
+        "node": "meridagary",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "jennygt100",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "jennygt100",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "meridagary",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "jennygt100",
+        "strength_total": 2.0
+      },
+      {
+        "node": "meridagary",
+        "strength_total": 1.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "jennygt100",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "meridagary",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "jennygt100",
+        "eigenvector": 0.00210284557607786
+      },
+      {
+        "node": "meridagary",
+        "eigenvector": 6.454352570085139e-06
+      }
+    ]
+  },
+  "20": {
+    "pagerank": [
+      {
+        "node": "vidalejo3",
+        "pagerank": 0.00039590484612017553
+      },
+      {
+        "node": "baruzgt",
+        "pagerank": 0.00038723061719975497
+      },
+      {
+        "node": "sergionovellie",
+        "pagerank": 0.00017664323291638283
+      },
+      {
+        "node": "mvlanuevaeramb",
+        "pagerank": 0.00017664323291638283
+      },
+      {
+        "node": "kitapenasbb",
+        "pagerank": 0.00017664323291638283
+      },
+      {
+        "node": "edurodriguezg",
+        "pagerank": 0.00017664323291638283
+      },
+      {
+        "node": "missguatelatina",
+        "pagerank": 0.00017664323291638283
+      },
+      {
+        "node": "gash276",
+        "pagerank": 0.00017664323291638283
+      },
+      {
+        "node": "victorxoriginal",
+        "pagerank": 0.00017664323291638283
+      },
+      {
+        "node": "reporteroukny",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "reporteroukny",
+        "betweenness": 0.005100573164186166
+      },
+      {
+        "node": "vidalejo3",
+        "betweenness": 2.2618949730315594e-06
+      },
+      {
+        "node": "baruzgt",
+        "betweenness": 0.0
+      },
+      {
+        "node": "sergionovellie",
+        "betweenness": 0.0
+      },
+      {
+        "node": "kitapenasbb",
+        "betweenness": 0.0
+      },
+      {
+        "node": "mvlanuevaeramb",
+        "betweenness": 0.0
+      },
+      {
+        "node": "edurodriguezg",
+        "betweenness": 0.0
+      },
+      {
+        "node": "missguatelatina",
+        "betweenness": 0.0
+      },
+      {
+        "node": "gash276",
+        "betweenness": 0.0
+      },
+      {
+        "node": "victorxoriginal",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "reporteroukny",
+        "strength_total": 10.0
+      },
+      {
+        "node": "vidalejo3",
+        "strength_total": 4.0
+      },
+      {
+        "node": "baruzgt",
+        "strength_total": 3.0
+      },
+      {
+        "node": "sergionovellie",
+        "strength_total": 1.0
+      },
+      {
+        "node": "kitapenasbb",
+        "strength_total": 1.0
+      },
+      {
+        "node": "mvlanuevaeramb",
+        "strength_total": 1.0
+      },
+      {
+        "node": "edurodriguezg",
+        "strength_total": 1.0
+      },
+      {
+        "node": "missguatelatina",
+        "strength_total": 1.0
+      },
+      {
+        "node": "gash276",
+        "strength_total": 1.0
+      },
+      {
+        "node": "victorxoriginal",
+        "strength_total": 1.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "reporteroukny",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "vidalejo3",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "baruzgt",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "sergionovellie",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "kitapenasbb",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "mvlanuevaeramb",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "edurodriguezg",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "missguatelatina",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "gash276",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "victorxoriginal",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "vidalejo3",
+        "eigenvector": 0.0021222896780171445
+      },
+      {
+        "node": "baruzgt",
+        "eigenvector": 0.0021158538725258944
+      },
+      {
+        "node": "reporteroukny",
+        "eigenvector": 0.002109677154903853
+      },
+      {
+        "node": "sergionovellie",
+        "eigenvector": 6.475329170273873e-06
+      },
+      {
+        "node": "kitapenasbb",
+        "eigenvector": 6.475329170273873e-06
+      },
+      {
+        "node": "mvlanuevaeramb",
+        "eigenvector": 6.475329170273873e-06
+      },
+      {
+        "node": "edurodriguezg",
+        "eigenvector": 6.475329170273873e-06
+      },
+      {
+        "node": "missguatelatina",
+        "eigenvector": 6.475329170273873e-06
+      },
+      {
+        "node": "gash276",
+        "eigenvector": 6.475329170273873e-06
+      },
+      {
+        "node": "victorxoriginal",
+        "eigenvector": 6.475329170273873e-06
+      }
+    ]
+  },
+  "21": {
+    "pagerank": [
+      {
+        "node": "agenciaocote",
+        "pagerank": 0.00441801589380441
+      },
+      {
+        "node": "alvaroarzue",
+        "pagerank": 0.002733380517402121
+      },
+      {
+        "node": "_chrisguti",
+        "pagerank": 0.0022309442150178285
+      },
+      {
+        "node": "davidck7",
+        "pagerank": 0.002062864136512771
+      },
+      {
+        "node": "jovannagarcon",
+        "pagerank": 0.0017161236221124251
+      },
+      {
+        "node": "marioquan",
+        "pagerank": 0.001338446629231199
+      },
+      {
+        "node": "monymmorales",
+        "pagerank": 0.001179414887046648
+      },
+      {
+        "node": "carlosrkestler",
+        "pagerank": 0.0010935116346058303
+      },
+      {
+        "node": "anongtreloaded",
+        "pagerank": 0.001070040850975711
+      },
+      {
+        "node": "dw_espanol",
+        "pagerank": 0.000955720372339378
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "agenciaocote",
+        "betweenness": 0.006561721836059093
+      },
+      {
+        "node": "estuilozano69",
+        "betweenness": 0.004339112874147366
+      },
+      {
+        "node": "marioquan",
+        "betweenness": 0.0036443119594902597
+      },
+      {
+        "node": "anongtreloaded",
+        "betweenness": 0.0036432475383264802
+      },
+      {
+        "node": "jovannagarcon",
+        "betweenness": 0.0029176671116834148
+      },
+      {
+        "node": "felipes96782816",
+        "betweenness": 0.002199515457745895
+      },
+      {
+        "node": "flordmorellana",
+        "betweenness": 0.0021896030356581974
+      },
+      {
+        "node": "carlosrkestler",
+        "betweenness": 0.0014599866787691354
+      },
+      {
+        "node": "gagarcias3371",
+        "betweenness": 0.0014587892049598833
+      },
+      {
+        "node": "sepebm",
+        "betweenness": 0.0014585230996689384
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "agenciaocote",
+        "strength_total": 115.0
+      },
+      {
+        "node": "carlosrkestler",
+        "strength_total": 56.0
+      },
+      {
+        "node": "monymmorales",
+        "strength_total": 43.0
+      },
+      {
+        "node": "anameri71677244",
+        "strength_total": 38.0
+      },
+      {
+        "node": "anongtreloaded",
+        "strength_total": 36.0
+      },
+      {
+        "node": "marioquan",
+        "strength_total": 36.0
+      },
+      {
+        "node": "jovannagarcon",
+        "strength_total": 35.0
+      },
+      {
+        "node": "davidck7",
+        "strength_total": 32.0
+      },
+      {
+        "node": "alvaroarzue",
+        "strength_total": 31.0
+      },
+      {
+        "node": "felipes96782816",
+        "strength_total": 30.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "agenciaocote",
+        "degree_centrality": 0.021517140773158278
+      },
+      {
+        "node": "davidck7",
+        "degree_centrality": 0.011305616338439095
+      },
+      {
+        "node": "carlosrkestler",
+        "degree_centrality": 0.010211524434719184
+      },
+      {
+        "node": "alvaroarzue",
+        "degree_centrality": 0.00911743253099927
+      },
+      {
+        "node": "monymmorales",
+        "degree_centrality": 0.008388037928519328
+      },
+      {
+        "node": "anongtreloaded",
+        "degree_centrality": 0.007293946024799417
+      },
+      {
+        "node": "jovannagarcon",
+        "degree_centrality": 0.006929248723559446
+      },
+      {
+        "node": "marioquan",
+        "degree_centrality": 0.006564551422319475
+      },
+      {
+        "node": "anameri71677244",
+        "degree_centrality": 0.005470459518599562
+      },
+      {
+        "node": "felipes96782816",
+        "degree_centrality": 0.005470459518599562
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "anameri71677244",
+        "eigenvector": 0.028920135224081486
+      },
+      {
+        "node": "agenciaocote",
+        "eigenvector": 0.023154949321047915
+      },
+      {
+        "node": "qj6d6q7rqw",
+        "eigenvector": 0.02125106377775131
+      },
+      {
+        "node": "felipes96782816",
+        "eigenvector": 0.01811871681282472
+      },
+      {
+        "node": "alvaroarzue",
+        "eigenvector": 0.016734761485636726
+      },
+      {
+        "node": "gagarcias3371",
+        "eigenvector": 0.013064406716229791
+      },
+      {
+        "node": "carlosrkestler",
+        "eigenvector": 0.013010572745298663
+      },
+      {
+        "node": "marioquan",
+        "eigenvector": 0.011572184563563815
+      },
+      {
+        "node": "dark_mastergt",
+        "eigenvector": 0.0111515755816257
+      },
+      {
+        "node": "estuilozano69",
+        "eigenvector": 0.010914621077449527
+      }
+    ]
+  },
+  "22": {
+    "pagerank": [
+      {
+        "node": "guatevisible",
+        "pagerank": 0.0012676100833764212
+      },
+      {
+        "node": "zuryxguate",
+        "pagerank": 0.0011388931542911165
+      },
+      {
+        "node": "jmenkos",
+        "pagerank": 0.0010867377246413183
+      },
+      {
+        "node": "vozdeltuit",
+        "pagerank": 0.0010634048295106503
+      },
+      {
+        "node": "oscargiron",
+        "pagerank": 0.0010383539282837974
+      },
+      {
+        "node": "ninomatute",
+        "pagerank": 0.001032798088810052
+      },
+      {
+        "node": "sankevins",
+        "pagerank": 0.001031244057810861
+      },
+      {
+        "node": "chatagira",
+        "pagerank": 0.0006228084328637972
+      },
+      {
+        "node": "giovannireyeso1",
+        "pagerank": 0.0004314293026024641
+      },
+      {
+        "node": "joditocruz",
+        "pagerank": 0.00042276212859972633
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "giovanottigt",
+        "betweenness": 0.015210112746150717
+      },
+      {
+        "node": "wamado04",
+        "betweenness": 0.0072712383733054544
+      },
+      {
+        "node": "jmenkos",
+        "betweenness": 0.004370114140542445
+      },
+      {
+        "node": "vozdeltuit",
+        "betweenness": 0.0021877846495034076
+      },
+      {
+        "node": "guatevisible",
+        "betweenness": 0.0021868532809851005
+      },
+      {
+        "node": "ninomatute",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "a91_targaryen",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "cajascuesta",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "sankevins",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "joditocruz",
+        "betweenness": 2.5191300876116193e-05
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "giovanottigt",
+        "strength_total": 88.0
+      },
+      {
+        "node": "wamado04",
+        "strength_total": 67.0
+      },
+      {
+        "node": "vozdeltuit",
+        "strength_total": 46.0
+      },
+      {
+        "node": "jmenkos",
+        "strength_total": 43.0
+      },
+      {
+        "node": "guatevisible",
+        "strength_total": 22.0
+      },
+      {
+        "node": "alberthmenendez",
+        "strength_total": 21.0
+      },
+      {
+        "node": "extasisvgames",
+        "strength_total": 19.0
+      },
+      {
+        "node": "cajascuesta",
+        "strength_total": 17.0
+      },
+      {
+        "node": "theclowbala",
+        "strength_total": 16.0
+      },
+      {
+        "node": "joditocruz",
+        "strength_total": 15.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "giovanottigt",
+        "degree_centrality": 0.014952589350838805
+      },
+      {
+        "node": "wamado04",
+        "degree_centrality": 0.010576221735959153
+      },
+      {
+        "node": "vozdeltuit",
+        "degree_centrality": 0.0087527352297593
+      },
+      {
+        "node": "jmenkos",
+        "degree_centrality": 0.007658643326039387
+      },
+      {
+        "node": "alberthmenendez",
+        "degree_centrality": 0.005470459518599562
+      },
+      {
+        "node": "extasisvgames",
+        "degree_centrality": 0.004741064916119621
+      },
+      {
+        "node": "guatevisible",
+        "degree_centrality": 0.00437636761487965
+      },
+      {
+        "node": "elenamotta_",
+        "degree_centrality": 0.0040116703136396795
+      },
+      {
+        "node": "rabanalesflor",
+        "degree_centrality": 0.0032822757111597373
+      },
+      {
+        "node": "joditocruz",
+        "degree_centrality": 0.0032822757111597373
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "giovanottigt",
+        "eigenvector": 0.05520599971344369
+      },
+      {
+        "node": "wamado04",
+        "eigenvector": 0.04783674245157298
+      },
+      {
+        "node": "theclowbala",
+        "eigenvector": 0.015126029989466949
+      },
+      {
+        "node": "alberthmenendez",
+        "eigenvector": 0.012279949494257954
+      },
+      {
+        "node": "vozdeltuit",
+        "eigenvector": 0.011956389070852965
+      },
+      {
+        "node": "guatevisible",
+        "eigenvector": 0.011858566508064808
+      },
+      {
+        "node": "solomamaleno",
+        "eigenvector": 0.01147803265600616
+      },
+      {
+        "node": "cajascuesta",
+        "eigenvector": 0.01074479393902507
+      },
+      {
+        "node": "julioromeodl",
+        "eigenvector": 0.010590437648790111
+      },
+      {
+        "node": "sankevins",
+        "eigenvector": 0.010283689189005848
+      }
+    ]
+  },
+  "23": {
+    "pagerank": [
+      {
+        "node": "sanchezcastejon",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "trollitogt",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "trollitogt",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "sanchezcastejon",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "trollitogt",
+        "strength_total": 4.0
+      },
+      {
+        "node": "sanchezcastejon",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "trollitogt",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "sanchezcastejon",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "trollitogt",
+        "eigenvector": 0.002329038731782892
+      },
+      {
+        "node": "sanchezcastejon",
+        "eigenvector": 1.4297470327046663e-05
+      }
+    ]
+  },
+  "24": {
+    "pagerank": [
+      {
+        "node": "noficciongt",
+        "pagerank": 0.003287481028273595
+      },
+      {
+        "node": "lanegrisgt",
+        "pagerank": 0.0018232657744579688
+      },
+      {
+        "node": "asierandres",
+        "pagerank": 0.00128293879512509
+      },
+      {
+        "node": "jmr18995",
+        "pagerank": 0.0007820428629765191
+      },
+      {
+        "node": "sofismenchu",
+        "pagerank": 0.0007206997955992813
+      },
+      {
+        "node": "lineasfrescas",
+        "pagerank": 0.000611514172467158
+      },
+      {
+        "node": "cidgallup",
+        "pagerank": 0.0006060548896162954
+      },
+      {
+        "node": "csarmolbar",
+        "pagerank": 0.0005688367905491681
+      },
+      {
+        "node": "jgramajo_soy502",
+        "pagerank": 0.0005387761821161969
+      },
+      {
+        "node": "_guisii",
+        "pagerank": 0.000523889174023156
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "noficciongt",
+        "betweenness": 0.008008749187159214
+      },
+      {
+        "node": "csarmolbar",
+        "betweenness": 0.0050967146374674656
+      },
+      {
+        "node": "_guisii",
+        "betweenness": 0.002189070825076308
+      },
+      {
+        "node": "rosario96501677",
+        "betweenness": 0.0021871193862760454
+      },
+      {
+        "node": "sininfluencer",
+        "betweenness": 0.0007304590236437212
+      },
+      {
+        "node": "lineasfrescas",
+        "betweenness": 0.0007296163568890625
+      },
+      {
+        "node": "reimerghost",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "docgesh",
+        "betweenness": 0.0007292615498344692
+      },
+      {
+        "node": "futbolfanaticog",
+        "betweenness": 0.0007275318654433275
+      },
+      {
+        "node": "lanegrisgt",
+        "betweenness": 3.259789814074895e-05
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "noficciongt",
+        "strength_total": 76.0
+      },
+      {
+        "node": "lanegrisgt",
+        "strength_total": 34.0
+      },
+      {
+        "node": "csarmolbar",
+        "strength_total": 31.0
+      },
+      {
+        "node": "_guisii",
+        "strength_total": 26.0
+      },
+      {
+        "node": "lineasfrescas",
+        "strength_total": 17.0
+      },
+      {
+        "node": "jgramajo_soy502",
+        "strength_total": 17.0
+      },
+      {
+        "node": "rosario96501677",
+        "strength_total": 15.0
+      },
+      {
+        "node": "purorojoybarca",
+        "strength_total": 14.0
+      },
+      {
+        "node": "dannyalarcon160",
+        "strength_total": 13.0
+      },
+      {
+        "node": "futbolfanaticog",
+        "strength_total": 12.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "noficciongt",
+        "degree_centrality": 0.013858497447118891
+      },
+      {
+        "node": "lanegrisgt",
+        "degree_centrality": 0.007658643326039387
+      },
+      {
+        "node": "csarmolbar",
+        "degree_centrality": 0.00437636761487965
+      },
+      {
+        "node": "_guisii",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "jgramajo_soy502",
+        "degree_centrality": 0.0032822757111597373
+      },
+      {
+        "node": "rosario96501677",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "lineasfrescas",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "futbolfanaticog",
+        "degree_centrality": 0.002188183807439825
+      },
+      {
+        "node": "diegoespana_",
+        "degree_centrality": 0.002188183807439825
+      },
+      {
+        "node": "purorojoybarca",
+        "degree_centrality": 0.002188183807439825
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "noficciongt",
+        "eigenvector": 0.022427377525769114
+      },
+      {
+        "node": "csarmolbar",
+        "eigenvector": 0.015689197767587315
+      },
+      {
+        "node": "_guisii",
+        "eigenvector": 0.011053276235883674
+      },
+      {
+        "node": "rosario96501677",
+        "eigenvector": 0.01100550425092985
+      },
+      {
+        "node": "docgesh",
+        "eigenvector": 0.01061094139040281
+      },
+      {
+        "node": "dannyalarcon160",
+        "eigenvector": 0.00977189598128181
+      },
+      {
+        "node": "marlondrums",
+        "eigenvector": 0.009740544093679785
+      },
+      {
+        "node": "futbolfanaticog",
+        "eigenvector": 0.00673741383651368
+      },
+      {
+        "node": "sininfluencer",
+        "eigenvector": 0.006642909762672511
+      },
+      {
+        "node": "allancito76",
+        "eigenvector": 0.006446159836042378
+      }
+    ]
+  },
+  "25": {
+    "pagerank": [
+      {
+        "node": "ufmedu",
+        "pagerank": 0.0021950480032736567
+      },
+      {
+        "node": "wergabriel",
+        "pagerank": 0.001612597098575948
+      },
+      {
+        "node": "luisvonahn",
+        "pagerank": 0.0012477363812211943
+      },
+      {
+        "node": "alterlego502",
+        "pagerank": 0.0008785851648002152
+      },
+      {
+        "node": "vicentecarrera_",
+        "pagerank": 0.0008057583934812522
+      },
+      {
+        "node": "claudiapazypaz",
+        "pagerank": 0.0005625039185327414
+      },
+      {
+        "node": "marlonmezateni",
+        "pagerank": 0.00029208727636343177
+      },
+      {
+        "node": "egutierrezaiza",
+        "pagerank": 0.0002790966499359836
+      },
+      {
+        "node": "chupinaelvia",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "mafersita8",
+        "pagerank": 0.00022254175480555018
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "matiasysimon",
+        "betweenness": 0.004002046172283839
+      },
+      {
+        "node": "wergabriel",
+        "betweenness": 0.0036448441700721495
+      },
+      {
+        "node": "alterlego502",
+        "betweenness": 0.002219052021189432
+      },
+      {
+        "node": "vicentecarrera_",
+        "betweenness": 0.002185522754530376
+      },
+      {
+        "node": "maflores8404",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "luisvonahn",
+        "betweenness": 0.0007295276551254141
+      },
+      {
+        "node": "emilioenrq42585",
+        "betweenness": 0.0007295276551254141
+      },
+      {
+        "node": "tavoandshanna",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "aceytunojhonny",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "robertotobar42",
+        "betweenness": 0.0007279310233797448
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "wergabriel",
+        "strength_total": 52.0
+      },
+      {
+        "node": "luisvonahn",
+        "strength_total": 37.0
+      },
+      {
+        "node": "vicentecarrera_",
+        "strength_total": 36.0
+      },
+      {
+        "node": "alterlego502",
+        "strength_total": 29.0
+      },
+      {
+        "node": "matiasysimon",
+        "strength_total": 20.0
+      },
+      {
+        "node": "evelincitay",
+        "strength_total": 16.0
+      },
+      {
+        "node": "claudiapazypaz",
+        "strength_total": 15.0
+      },
+      {
+        "node": "robertotobar42",
+        "strength_total": 15.0
+      },
+      {
+        "node": "bufeprofesional",
+        "strength_total": 13.0
+      },
+      {
+        "node": "emilioenrq42585",
+        "strength_total": 13.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "wergabriel",
+        "degree_centrality": 0.00911743253099927
+      },
+      {
+        "node": "luisvonahn",
+        "degree_centrality": 0.0087527352297593
+      },
+      {
+        "node": "vicentecarrera_",
+        "degree_centrality": 0.006929248723559446
+      },
+      {
+        "node": "matiasysimon",
+        "degree_centrality": 0.005470459518599562
+      },
+      {
+        "node": "alterlego502",
+        "degree_centrality": 0.005105762217359592
+      },
+      {
+        "node": "evelincitay",
+        "degree_centrality": 0.004741064916119621
+      },
+      {
+        "node": "bufeprofesional",
+        "degree_centrality": 0.00437636761487965
+      },
+      {
+        "node": "ufmedu",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "claudiapazypaz",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "rlmazariegos",
+        "degree_centrality": 0.002552881108679796
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "wergabriel",
+        "eigenvector": 0.012994675470238533
+      },
+      {
+        "node": "alterlego502",
+        "eigenvector": 0.010810516797714713
+      },
+      {
+        "node": "luisvonahn",
+        "eigenvector": 0.00982317891610666
+      },
+      {
+        "node": "emilioenrq42585",
+        "eigenvector": 0.009283504242229823
+      },
+      {
+        "node": "robertotobar42",
+        "eigenvector": 0.008862815384690047
+      },
+      {
+        "node": "vctorhe19153891",
+        "eigenvector": 0.007442463006560903
+      },
+      {
+        "node": "matiasysimon",
+        "eigenvector": 0.0071697532632985774
+      },
+      {
+        "node": "jrruizh",
+        "eigenvector": 0.006893148788143627
+      },
+      {
+        "node": "eduardo25744843",
+        "eigenvector": 0.006609580236725321
+      },
+      {
+        "node": "caalcatun",
+        "eigenvector": 0.0065845018771285395
+      }
+    ]
+  },
+  "26": {
+    "pagerank": [
+      {
+        "node": "milesturne70424",
+        "pagerank": 0.00017598355266811396
+      },
+      {
+        "node": "joshparker94",
+        "pagerank": 0.00016938675018542544
+      },
+      {
+        "node": "llamarseraffa",
+        "pagerank": 0.00016938675018542544
+      },
+      {
+        "node": "syl_guru",
+        "pagerank": 0.00016938675018542544
+      },
+      {
+        "node": "teddyallen",
+        "pagerank": 0.00016938675018542544
+      },
+      {
+        "node": "filthindabeauty",
+        "pagerank": 0.00016938675018542544
+      },
+      {
+        "node": "valeriaroblesbb",
+        "pagerank": 0.00016938675018542544
+      },
+      {
+        "node": "norabra88894205",
+        "pagerank": 0.00016938675018542544
+      },
+      {
+        "node": "piratear3",
+        "pagerank": 0.00016938675018542544
+      },
+      {
+        "node": "bafarawak",
+        "pagerank": 0.00016938675018542544
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "jalenvelaz46026",
+        "betweenness": 0.013812993442367315
+      },
+      {
+        "node": "milesturne70424",
+        "betweenness": 0.0
+      },
+      {
+        "node": "llamarseraffa",
+        "betweenness": 0.0
+      },
+      {
+        "node": "joshparker94",
+        "betweenness": 0.0
+      },
+      {
+        "node": "syl_guru",
+        "betweenness": 0.0
+      },
+      {
+        "node": "teddyallen",
+        "betweenness": 0.0
+      },
+      {
+        "node": "valeriaroblesbb",
+        "betweenness": 0.0
+      },
+      {
+        "node": "filthindabeauty",
+        "betweenness": 0.0
+      },
+      {
+        "node": "piratear3",
+        "betweenness": 0.0
+      },
+      {
+        "node": "bafarawak",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "jalenvelaz46026",
+        "strength_total": 21.0
+      },
+      {
+        "node": "milesturne70424",
+        "strength_total": 2.0
+      },
+      {
+        "node": "llamarseraffa",
+        "strength_total": 1.0
+      },
+      {
+        "node": "joshparker94",
+        "strength_total": 1.0
+      },
+      {
+        "node": "syl_guru",
+        "strength_total": 1.0
+      },
+      {
+        "node": "teddyallen",
+        "strength_total": 1.0
+      },
+      {
+        "node": "valeriaroblesbb",
+        "strength_total": 1.0
+      },
+      {
+        "node": "filthindabeauty",
+        "strength_total": 1.0
+      },
+      {
+        "node": "piratear3",
+        "strength_total": 1.0
+      },
+      {
+        "node": "bafarawak",
+        "strength_total": 1.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "jalenvelaz46026",
+        "degree_centrality": 0.007293946024799417
+      },
+      {
+        "node": "milesturne70424",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "llamarseraffa",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "joshparker94",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "syl_guru",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "teddyallen",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "valeriaroblesbb",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "filthindabeauty",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "piratear3",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "bafarawak",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "jalenvelaz46026",
+        "eigenvector": 0.002103261856416123
+      },
+      {
+        "node": "milesturne70424",
+        "eigenvector": 1.2911260464082648e-05
+      },
+      {
+        "node": "llamarseraffa",
+        "eigenvector": 6.455630232041324e-06
+      },
+      {
+        "node": "joshparker94",
+        "eigenvector": 6.455630232041324e-06
+      },
+      {
+        "node": "syl_guru",
+        "eigenvector": 6.455630232041324e-06
+      },
+      {
+        "node": "teddyallen",
+        "eigenvector": 6.455630232041324e-06
+      },
+      {
+        "node": "valeriaroblesbb",
+        "eigenvector": 6.455630232041324e-06
+      },
+      {
+        "node": "filthindabeauty",
+        "eigenvector": 6.455630232041324e-06
+      },
+      {
+        "node": "piratear3",
+        "eigenvector": 6.455630232041324e-06
+      },
+      {
+        "node": "bafarawak",
+        "eigenvector": 6.455630232041324e-06
+      }
+    ]
+  },
+  "27": {
+    "pagerank": [
+      {
+        "node": "kennethmz",
+        "pagerank": 0.0008896744685057741
+      },
+      {
+        "node": "petrogustavo",
+        "pagerank": 0.00037828549547056157
+      },
+      {
+        "node": "raulfalla31",
+        "pagerank": 0.0003745429839256769
+      },
+      {
+        "node": "josecsagt",
+        "pagerank": 0.00036392428477863715
+      },
+      {
+        "node": "s_c_c_84",
+        "pagerank": 0.00021820308855732042
+      },
+      {
+        "node": "santizoreloaded",
+        "pagerank": 0.00019742316073685163
+      },
+      {
+        "node": "pmt_vc",
+        "pagerank": 0.00018587875639214672
+      },
+      {
+        "node": "lucreciapeinado",
+        "pagerank": 0.00018587875639214672
+      },
+      {
+        "node": "pmt_smpetapa",
+        "pagerank": 0.00018587875639214672
+      },
+      {
+        "node": "michideflores",
+        "pagerank": 0.00018126099465426475
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "spaceship__5",
+        "betweenness": 0.001462228104104402
+      },
+      {
+        "node": "paw_green",
+        "betweenness": 0.0012053027570990984
+      },
+      {
+        "node": "irismar78612428",
+        "betweenness": 0.0012053027570990984
+      },
+      {
+        "node": "alexricoflores3",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "vvj_gt",
+        "betweenness": 0.0007222097596244297
+      },
+      {
+        "node": "s_c_c_84",
+        "betweenness": 0.00010262173392832867
+      },
+      {
+        "node": "sontay_williamg",
+        "betweenness": 0.00010073682145080238
+      },
+      {
+        "node": "yohenbarrera",
+        "betweenness": 0.00010073682145080238
+      },
+      {
+        "node": "choelias3",
+        "betweenness": 0.00010073682145080238
+      },
+      {
+        "node": "patojodeltuit",
+        "betweenness": 0.00010003403055420435
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "kennethmz",
+        "strength_total": 27.0
+      },
+      {
+        "node": "hedis28",
+        "strength_total": 15.0
+      },
+      {
+        "node": "michideflores",
+        "strength_total": 13.0
+      },
+      {
+        "node": "paw_green",
+        "strength_total": 12.0
+      },
+      {
+        "node": "irismar78612428",
+        "strength_total": 12.0
+      },
+      {
+        "node": "vvj_gt",
+        "strength_total": 10.0
+      },
+      {
+        "node": "spaceship__5",
+        "strength_total": 9.0
+      },
+      {
+        "node": "josecsagt",
+        "strength_total": 7.0
+      },
+      {
+        "node": "s_c_c_84",
+        "strength_total": 6.0
+      },
+      {
+        "node": "petrogustavo",
+        "strength_total": 6.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "kennethmz",
+        "degree_centrality": 0.005105762217359592
+      },
+      {
+        "node": "paw_green",
+        "degree_centrality": 0.0040116703136396795
+      },
+      {
+        "node": "irismar78612428",
+        "degree_centrality": 0.0040116703136396795
+      },
+      {
+        "node": "hedis28",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "michideflores",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "josecsagt",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "raulfalla31",
+        "degree_centrality": 0.0018234865061998542
+      },
+      {
+        "node": "spaceship__5",
+        "degree_centrality": 0.0014587892049598833
+      },
+      {
+        "node": "s_c_c_84",
+        "degree_centrality": 0.0014587892049598833
+      },
+      {
+        "node": "patojodeltuit",
+        "degree_centrality": 0.0014587892049598833
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "michideflores",
+        "eigenvector": 0.01184418099577141
+      },
+      {
+        "node": "vvj_gt",
+        "eigenvector": 0.011017480843748574
+      },
+      {
+        "node": "spaceship__5",
+        "eigenvector": 0.008413793017887009
+      },
+      {
+        "node": "hedis28",
+        "eigenvector": 0.006690379896748917
+      },
+      {
+        "node": "ajame79luis",
+        "eigenvector": 0.00424672213583474
+      },
+      {
+        "node": "paw_green",
+        "eigenvector": 0.002476968975379217
+      },
+      {
+        "node": "irismar78612428",
+        "eigenvector": 0.002476968975379217
+      },
+      {
+        "node": "raulfalla31",
+        "eigenvector": 0.002380714169913804
+      },
+      {
+        "node": "francis_hieza88",
+        "eigenvector": 0.0021573890067847715
+      },
+      {
+        "node": "s_c_c_84",
+        "eigenvector": 0.002117902050742877
+      }
+    ]
+  },
+  "28": {
+    "pagerank": [
+      {
+        "node": "craxkerr2",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "pirir9pirir",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "pirir9pirir",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "craxkerr2",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "pirir9pirir",
+        "strength_total": 4.0
+      },
+      {
+        "node": "craxkerr2",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "pirir9pirir",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "craxkerr2",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "pirir9pirir",
+        "eigenvector": 0.002329038731782892
+      },
+      {
+        "node": "craxkerr2",
+        "eigenvector": 1.4297470327046663e-05
+      }
+    ]
+  },
+  "29": {
+    "pagerank": [
+      {
+        "node": "desdexibalba",
+        "pagerank": 0.00021820308855732042
+      },
+      {
+        "node": "tacticayseggt",
+        "pagerank": 0.0001904965181300287
+      },
+      {
+        "node": "don_kamu",
+        "pagerank": 0.0001904965181300287
+      },
+      {
+        "node": "allandicen",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "allandicen",
+        "betweenness": 0.0021873854915669903
+      },
+      {
+        "node": "desdexibalba",
+        "betweenness": 0.0
+      },
+      {
+        "node": "tacticayseggt",
+        "betweenness": 0.0
+      },
+      {
+        "node": "don_kamu",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "allandicen",
+        "strength_total": 5.0
+      },
+      {
+        "node": "desdexibalba",
+        "strength_total": 2.0
+      },
+      {
+        "node": "tacticayseggt",
+        "strength_total": 1.0
+      },
+      {
+        "node": "don_kamu",
+        "strength_total": 1.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "allandicen",
+        "degree_centrality": 0.0014587892049598833
+      },
+      {
+        "node": "desdexibalba",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "tacticayseggt",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "don_kamu",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "allandicen",
+        "eigenvector": 0.002102944675497196
+      },
+      {
+        "node": "desdexibalba",
+        "eigenvector": 1.2909313458878211e-05
+      },
+      {
+        "node": "tacticayseggt",
+        "eigenvector": 6.4546567294391055e-06
+      },
+      {
+        "node": "don_kamu",
+        "eigenvector": 6.4546567294391055e-06
+      }
+    ]
+  },
+  "30": {
+    "pagerank": [
+      {
+        "node": "airborn21k",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "franmandr",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "franmandr",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "airborn21k",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "franmandr",
+        "strength_total": 3.0
+      },
+      {
+        "node": "airborn21k",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "franmandr",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "airborn21k",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "franmandr",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "airborn21k",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "31": {
+    "pagerank": [
+      {
+        "node": "emetra",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "yvassaux",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "yvassaux",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "emetra",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "yvassaux",
+        "strength_total": 3.0
+      },
+      {
+        "node": "emetra",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "yvassaux",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "emetra",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "yvassaux",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "emetra",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "32": {
+    "pagerank": [
+      {
+        "node": "mike051270",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "mamezquitam",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "mamezquitam",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "mike051270",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "mamezquitam",
+        "strength_total": 4.0
+      },
+      {
+        "node": "mike051270",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "mamezquitam",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "mike051270",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "mamezquitam",
+        "eigenvector": 0.002329038731782892
+      },
+      {
+        "node": "mike051270",
+        "eigenvector": 1.4297470327046663e-05
+      }
+    ]
+  },
+  "33": {
+    "pagerank": [
+      {
+        "node": "elakademicista",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "jdtolland2004",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "jdtolland2004",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "elakademicista",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "jdtolland2004",
+        "strength_total": 3.0
+      },
+      {
+        "node": "elakademicista",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "jdtolland2004",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "elakademicista",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "jdtolland2004",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "elakademicista",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "34": {
+    "pagerank": [
+      {
+        "node": "mfgalan",
+        "pagerank": 0.00024590965898461215
+      },
+      {
+        "node": "tecoasturias",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "tecoasturias",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "mfgalan",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "tecoasturias",
+        "strength_total": 5.0
+      },
+      {
+        "node": "mfgalan",
+        "strength_total": 3.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "tecoasturias",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "mfgalan",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "tecoasturias",
+        "eigenvector": 0.004206008279264645
+      },
+      {
+        "node": "mfgalan",
+        "eigenvector": 3.8729035432871455e-05
+      }
+    ]
+  },
+  "35": {
+    "pagerank": [
+      {
+        "node": "pochemuchka_soy",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "joemayros",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "joemayros",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "pochemuchka_soy",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "joemayros",
+        "strength_total": 3.0
+      },
+      {
+        "node": "pochemuchka_soy",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "joemayros",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "pochemuchka_soy",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "joemayros",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "pochemuchka_soy",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "36": {
+    "pagerank": [
+      {
+        "node": "tseguatemala",
+        "pagerank": 0.01038693377521222
+      },
+      {
+        "node": "jlfont001",
+        "pagerank": 0.00395709849443532
+      },
+      {
+        "node": "msemillagt",
+        "pagerank": 0.0027149922373510098
+      },
+      {
+        "node": "concriteriogt",
+        "pagerank": 0.0021777810405261334
+      },
+      {
+        "node": "cmendeza",
+        "pagerank": 0.001418121697170776
+      },
+      {
+        "node": "replikhante",
+        "pagerank": 0.001078124152363995
+      },
+      {
+        "node": "fiscalnvicto",
+        "pagerank": 0.0010085429668253826
+      },
+      {
+        "node": "_ojoconmipisto",
+        "pagerank": 0.0007390434998271706
+      },
+      {
+        "node": "aizenstatd",
+        "pagerank": 0.0006854981163558759
+      },
+      {
+        "node": "jsandoval1982",
+        "pagerank": 0.0006667684306868485
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "iovittor",
+        "betweenness": 0.013042751677727334
+      },
+      {
+        "node": "jlfont001",
+        "betweenness": 0.008006442941304358
+      },
+      {
+        "node": "erwinrobles2",
+        "betweenness": 0.004372376035515477
+      },
+      {
+        "node": "jaque_mate2",
+        "betweenness": 0.00218791770214888
+      },
+      {
+        "node": "yankees20051968",
+        "betweenness": 0.0021868532809851005
+      },
+      {
+        "node": "lajudaica",
+        "betweenness": 0.0021844583333665967
+      },
+      {
+        "node": "cmendeza",
+        "betweenness": 0.0014634460475514192
+      },
+      {
+        "node": "48_cantonestoto",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "martayaque",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "eedlb",
+        "betweenness": 0.0014573256258596865
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "iovittor",
+        "strength_total": 141.0
+      },
+      {
+        "node": "jlfont001",
+        "strength_total": 132.0
+      },
+      {
+        "node": "msemillagt",
+        "strength_total": 80.0
+      },
+      {
+        "node": "cmendeza",
+        "strength_total": 51.0
+      },
+      {
+        "node": "julioca75923080",
+        "strength_total": 47.0
+      },
+      {
+        "node": "lajudaica",
+        "strength_total": 47.0
+      },
+      {
+        "node": "erwinrobles2",
+        "strength_total": 43.0
+      },
+      {
+        "node": "thelmaaldana",
+        "strength_total": 36.0
+      },
+      {
+        "node": "concriteriogt",
+        "strength_total": 36.0
+      },
+      {
+        "node": "eedlb",
+        "strength_total": 32.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "jlfont001",
+        "degree_centrality": 0.022975929978118162
+      },
+      {
+        "node": "msemillagt",
+        "degree_centrality": 0.021152443471918306
+      },
+      {
+        "node": "cmendeza",
+        "degree_centrality": 0.012035010940919038
+      },
+      {
+        "node": "concriteriogt",
+        "degree_centrality": 0.010940919037199124
+      },
+      {
+        "node": "iovittor",
+        "degree_centrality": 0.010211524434719184
+      },
+      {
+        "node": "thelmaaldana",
+        "degree_centrality": 0.0087527352297593
+      },
+      {
+        "node": "erwinrobles2",
+        "degree_centrality": 0.008388037928519328
+      },
+      {
+        "node": "tseguatemala",
+        "degree_centrality": 0.008023340627279359
+      },
+      {
+        "node": "julioca75923080",
+        "degree_centrality": 0.007293946024799417
+      },
+      {
+        "node": "eedlb",
+        "degree_centrality": 0.007293946024799417
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "iovittor",
+        "eigenvector": 0.09494657651799386
+      },
+      {
+        "node": "jlfont001",
+        "eigenvector": 0.04778611672883301
+      },
+      {
+        "node": "julioca75923080",
+        "eigenvector": 0.033542694387519605
+      },
+      {
+        "node": "erwinrobles2",
+        "eigenvector": 0.030693487211048382
+      },
+      {
+        "node": "lajudaica",
+        "eigenvector": 0.029198102848481004
+      },
+      {
+        "node": "unperro_mas",
+        "eigenvector": 0.023819879913665406
+      },
+      {
+        "node": "msemillagt",
+        "eigenvector": 0.021745868831270738
+      },
+      {
+        "node": "marielizlucero",
+        "eigenvector": 0.019079586904750066
+      },
+      {
+        "node": "georgecamposb",
+        "eigenvector": 0.018554579935533087
+      },
+      {
+        "node": "yankees20051968",
+        "eigenvector": 0.016549481700571456
+      }
+    ]
+  },
+  "37": {
+    "pagerank": [
+      {
+        "node": "ep_investiga",
+        "pagerank": 0.0030284090519217743
+      },
+      {
+        "node": "discosbeagle",
+        "pagerank": 0.001022260080761285
+      },
+      {
+        "node": "tropicoferoz",
+        "pagerank": 0.0009482854664608562
+      },
+      {
+        "node": "domingo94096837",
+        "pagerank": 0.0007748677187910827
+      },
+      {
+        "node": "derekurizar",
+        "pagerank": 0.0006833941083743588
+      },
+      {
+        "node": "sib_guatemala",
+        "pagerank": 0.0006055061397383369
+      },
+      {
+        "node": "projusticiaguat",
+        "pagerank": 0.0005292382992124176
+      },
+      {
+        "node": "maribelmar51429",
+        "pagerank": 0.0004183877352284833
+      },
+      {
+        "node": "danydoggy",
+        "pagerank": 0.000400969237340859
+      },
+      {
+        "node": "mamenaldo",
+        "pagerank": 0.00028979641730999346
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "javi_sudo",
+        "betweenness": 0.004372109930224532
+      },
+      {
+        "node": "doloresflo23",
+        "betweenness": 0.0029123450058645174
+      },
+      {
+        "node": "domingo94096837",
+        "betweenness": 0.002190179597121912
+      },
+      {
+        "node": "rafason",
+        "betweenness": 0.0014587892049598833
+      },
+      {
+        "node": "ep_investiga",
+        "betweenness": 0.0007305920762891937
+      },
+      {
+        "node": "gloriaanneliess",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "elizave15409733",
+        "betweenness": 0.0007291284971889968
+      },
+      {
+        "node": "discosbeagle",
+        "betweenness": 0.0007291284971889968
+      },
+      {
+        "node": "maribelmar51429",
+        "betweenness": 0.0007277979707342723
+      },
+      {
+        "node": "tropicoferoz",
+        "betweenness": 0.0003700238421470509
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "ep_investiga",
+        "strength_total": 57.0
+      },
+      {
+        "node": "doloresflo23",
+        "strength_total": 53.0
+      },
+      {
+        "node": "domingo94096837",
+        "strength_total": 51.0
+      },
+      {
+        "node": "javi_sudo",
+        "strength_total": 30.0
+      },
+      {
+        "node": "discosbeagle",
+        "strength_total": 26.0
+      },
+      {
+        "node": "maribelmar51429",
+        "strength_total": 24.0
+      },
+      {
+        "node": "cc_abogado",
+        "strength_total": 17.0
+      },
+      {
+        "node": "elizave15409733",
+        "strength_total": 17.0
+      },
+      {
+        "node": "rafason",
+        "strength_total": 15.0
+      },
+      {
+        "node": "gloriaanneliess",
+        "strength_total": 14.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "ep_investiga",
+        "degree_centrality": 0.0087527352297593
+      },
+      {
+        "node": "domingo94096837",
+        "degree_centrality": 0.0087527352297593
+      },
+      {
+        "node": "doloresflo23",
+        "degree_centrality": 0.006929248723559446
+      },
+      {
+        "node": "discosbeagle",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "rafason",
+        "degree_centrality": 0.0029175784099197666
+      },
+      {
+        "node": "maribelmar51429",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "haverramirez",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "javi_sudo",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "manuelp27147297",
+        "degree_centrality": 0.002188183807439825
+      },
+      {
+        "node": "elizave15409733",
+        "degree_centrality": 0.002188183807439825
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "doloresflo23",
+        "eigenvector": 0.0347247505979965
+      },
+      {
+        "node": "ep_investiga",
+        "eigenvector": 0.032683085307285635
+      },
+      {
+        "node": "maribelmar51429",
+        "eigenvector": 0.02154672282100863
+      },
+      {
+        "node": "elizave15409733",
+        "eigenvector": 0.015394114997429697
+      },
+      {
+        "node": "cc_abogado",
+        "eigenvector": 0.015065572994239666
+      },
+      {
+        "node": "discosbeagle",
+        "eigenvector": 0.011039354934942389
+      },
+      {
+        "node": "francis52987990",
+        "eigenvector": 0.010976094742418853
+      },
+      {
+        "node": "rafason",
+        "eigenvector": 0.010742122352254557
+      },
+      {
+        "node": "domingo94096837",
+        "eigenvector": 0.009785313318781769
+      },
+      {
+        "node": "javi_sudo",
+        "eigenvector": 0.008461580050582984
+      }
+    ]
+  },
+  "38": {
+    "pagerank": [
+      {
+        "node": "harriswhitbeck",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "tanchita21",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "tanchita21",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "harriswhitbeck",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "tanchita21",
+        "strength_total": 3.0
+      },
+      {
+        "node": "harriswhitbeck",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "tanchita21",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "harriswhitbeck",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "tanchita21",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "harriswhitbeck",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "39": {
+    "pagerank": [
+      {
+        "node": "soycristiannoe",
+        "pagerank": 0.0003291320815702907
+      },
+      {
+        "node": "henryfit5",
+        "pagerank": 0.0002320563737709663
+      },
+      {
+        "node": "lees_gabii",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "henryfit5",
+        "betweenness": 0.0007292615498344692
+      },
+      {
+        "node": "soycristiannoe",
+        "betweenness": 0.0
+      },
+      {
+        "node": "lees_gabii",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "henryfit5",
+        "strength_total": 5.0
+      },
+      {
+        "node": "lees_gabii",
+        "strength_total": 4.0
+      },
+      {
+        "node": "soycristiannoe",
+        "strength_total": 3.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "henryfit5",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "lees_gabii",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "soycristiannoe",
+        "degree_centrality": 0.0007293946024799417
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "henryfit5",
+        "eigenvector": 0.0021159341280666474
+      },
+      {
+        "node": "lees_gabii",
+        "eigenvector": 0.0021158746672803722
+      },
+      {
+        "node": "soycristiannoe",
+        "eigenvector": 1.948344377259713e-05
+      }
+    ]
+  },
+  "40": {
+    "pagerank": [
+      {
+        "node": "robrimola",
+        "pagerank": 0.00031030385766394724
+      },
+      {
+        "node": "rodanleu69",
+        "pagerank": 0.00025880177023598374
+      },
+      {
+        "node": "chapinito90",
+        "pagerank": 0.00022570693199790832
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "robrimola",
+        "betweenness": 0.0
+      },
+      {
+        "node": "rodanleu69",
+        "betweenness": 0.0
+      },
+      {
+        "node": "chapinito90",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "robrimola",
+        "strength_total": 7.0
+      },
+      {
+        "node": "rodanleu69",
+        "strength_total": 7.0
+      },
+      {
+        "node": "chapinito90",
+        "strength_total": 6.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "robrimola",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "rodanleu69",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "chapinito90",
+        "degree_centrality": 0.0010940919037199124
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "rodanleu69",
+        "eigenvector": 0.004238565465250541
+      },
+      {
+        "node": "chapinito90",
+        "eigenvector": 0.00423627660858171
+      },
+      {
+        "node": "robrimola",
+        "eigenvector": 0.0007499995729627109
+      }
+    ]
+  },
+  "41": {
+    "pagerank": [
+      {
+        "node": "stereo100xela",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "blanknita_24",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "blanknita_24",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "stereo100xela",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "blanknita_24",
+        "strength_total": 3.0
+      },
+      {
+        "node": "stereo100xela",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "blanknita_24",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "stereo100xela",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "blanknita_24",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "stereo100xela",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "42": {
+    "pagerank": [
+      {
+        "node": "benitoc67601310",
+        "pagerank": 0.0002551451824603761
+      },
+      {
+        "node": "m_artis",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "m_artis",
+        "betweenness": 0.0007293946024799417
+      },
+      {
+        "node": "benitoc67601310",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "m_artis",
+        "strength_total": 3.0
+      },
+      {
+        "node": "benitoc67601310",
+        "strength_total": 2.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "m_artis",
+        "degree_centrality": 0.0007293946024799417
+      },
+      {
+        "node": "benitoc67601310",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "m_artis",
+        "eigenvector": 0.0021029050346086328
+      },
+      {
+        "node": "benitoc67601310",
+        "eigenvector": 1.2909070124515154e-05
+      }
+    ]
+  },
+  "43": {
+    "pagerank": [
+      {
+        "node": "denunciasmuni",
+        "pagerank": 0.00020896756508155653
+      },
+      {
+        "node": "obrasmuniguate",
+        "pagerank": 0.00020896756508155653
+      },
+      {
+        "node": "wofwofgtt",
+        "pagerank": 0.00016278994770273691
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "wofwofgtt",
+        "betweenness": 0.0014585230996689384
+      },
+      {
+        "node": "denunciasmuni",
+        "betweenness": 0.0
+      },
+      {
+        "node": "obrasmuniguate",
+        "betweenness": 0.0
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "wofwofgtt",
+        "strength_total": 3.0
+      },
+      {
+        "node": "denunciasmuni",
+        "strength_total": 1.0
+      },
+      {
+        "node": "obrasmuniguate",
+        "strength_total": 1.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "wofwofgtt",
+        "degree_centrality": 0.0010940919037199124
+      },
+      {
+        "node": "denunciasmuni",
+        "degree_centrality": 0.00036469730123997083
+      },
+      {
+        "node": "obrasmuniguate",
+        "degree_centrality": 0.00036469730123997083
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "wofwofgtt",
+        "eigenvector": 0.0021028653952145228
+      },
+      {
+        "node": "denunciasmuni",
+        "eigenvector": 6.454413399662679e-06
+      },
+      {
+        "node": "obrasmuniguate",
+        "eigenvector": 6.454413399662679e-06
+      }
+    ]
+  },
+  "44": {
+    "pagerank": [
+      {
+        "node": "rodolfoneutze",
+        "pagerank": 0.001334145192373401
+      },
+      {
+        "node": "marieloscm",
+        "pagerank": 0.0011457733212122227
+      },
+      {
+        "node": "parlacen",
+        "pagerank": 0.0007668693575928385
+      },
+      {
+        "node": "brendah2o66",
+        "pagerank": 0.0007094291474047176
+      },
+      {
+        "node": "empagua_gt",
+        "pagerank": 0.0007051895611637845
+      },
+      {
+        "node": "infogt_noticias",
+        "pagerank": 0.0005598738252782648
+      },
+      {
+        "node": "pdhgt",
+        "pagerank": 0.0004859081359086634
+      },
+      {
+        "node": "marjorievonahn",
+        "pagerank": 0.00041016505324311027
+      },
+      {
+        "node": "alejandrita_go",
+        "pagerank": 0.00034881977771455296
+      },
+      {
+        "node": "gersonbarrera",
+        "pagerank": 0.00033092236581318854
+      }
+    ],
+    "betweenness": [
+      {
+        "node": "gersonbarrera",
+        "betweenness": 0.002916123700995934
+      },
+      {
+        "node": "marieloscm",
+        "betweenness": 0.0023972095134770356
+      },
+      {
+        "node": "johnnyhurtarte",
+        "betweenness": 0.0007356037259353226
+      },
+      {
+        "node": "alitocute",
+        "betweenness": 0.0007277979707342723
+      },
+      {
+        "node": "joares2606",
+        "betweenness": 0.0007271327075069102
+      },
+      {
+        "node": "brendah2o66",
+        "betweenness": 1.6808984211352177e-05
+      },
+      {
+        "node": "marjorievonahn",
+        "betweenness": 9.313685183071127e-06
+      },
+      {
+        "node": "infogt_noticias",
+        "betweenness": 7.850106082874233e-06
+      },
+      {
+        "node": "lindo_pinky",
+        "betweenness": 4.47943906423897e-06
+      },
+      {
+        "node": "rg550awmendoza",
+        "betweenness": 3.326316136811117e-06
+      }
+    ],
+    "strength_total": [
+      {
+        "node": "gersonbarrera",
+        "strength_total": 51.0
+      },
+      {
+        "node": "johnnyhurtarte",
+        "strength_total": 36.0
+      },
+      {
+        "node": "marieloscm",
+        "strength_total": 32.0
+      },
+      {
+        "node": "rg550awmendoza",
+        "strength_total": 18.0
+      },
+      {
+        "node": "marjorievonahn",
+        "strength_total": 16.0
+      },
+      {
+        "node": "lindo_pinky",
+        "strength_total": 14.0
+      },
+      {
+        "node": "brendah2o66",
+        "strength_total": 14.0
+      },
+      {
+        "node": "joares2606",
+        "strength_total": 13.0
+      },
+      {
+        "node": "empagua_gt",
+        "strength_total": 13.0
+      },
+      {
+        "node": "_kimberly_lopez",
+        "strength_total": 12.0
+      }
+    ],
+    "degree_centrality": [
+      {
+        "node": "gersonbarrera",
+        "degree_centrality": 0.007658643326039387
+      },
+      {
+        "node": "marieloscm",
+        "degree_centrality": 0.006199854121079504
+      },
+      {
+        "node": "johnnyhurtarte",
+        "degree_centrality": 0.006199854121079504
+      },
+      {
+        "node": "empagua_gt",
+        "degree_centrality": 0.00437636761487965
+      },
+      {
+        "node": "pdhgt",
+        "degree_centrality": 0.0040116703136396795
+      },
+      {
+        "node": "brendah2o66",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "marjorievonahn",
+        "degree_centrality": 0.0036469730123997084
+      },
+      {
+        "node": "rg550awmendoza",
+        "degree_centrality": 0.0032822757111597373
+      },
+      {
+        "node": "infogt_noticias",
+        "degree_centrality": 0.002552881108679796
+      },
+      {
+        "node": "lindo_pinky",
+        "degree_centrality": 0.002552881108679796
+      }
+    ],
+    "eigenvector": [
+      {
+        "node": "gersonbarrera",
+        "eigenvector": 0.0371604750266414
+      },
+      {
+        "node": "johnnyhurtarte",
+        "eigenvector": 0.02674286963371416
+      },
+      {
+        "node": "rg550awmendoza",
+        "eigenvector": 0.013826344144752166
+      },
+      {
+        "node": "marieloscm",
+        "eigenvector": 0.009074440232901935
+      },
+      {
+        "node": "sergiol16320201",
+        "eigenvector": 0.008791528780841993
+      },
+      {
+        "node": "lindo_pinky",
+        "eigenvector": 0.008752376050670148
+      },
+      {
+        "node": "epguate",
+        "eigenvector": 0.007249641591010422
+      },
+      {
+        "node": "joares2606",
+        "eigenvector": 0.006806134291924327
+      },
+      {
+        "node": "alitocute",
+        "eigenvector": 0.006334547315734931
+      },
+      {
+        "node": "tisha_3572",
+        "eigenvector": 0.006331315669710909
+      }
+    ]
+  }
+}

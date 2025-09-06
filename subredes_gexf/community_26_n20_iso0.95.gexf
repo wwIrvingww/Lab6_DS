@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-09-04">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="dist" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="joshparker94" label="joshparker94">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="syl_guru" label="syl_guru">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="milesturne70424" label="milesturne70424">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="gucciwinterbear" label="gucciwinterbear">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="lucoates2" label="lucoates2">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="jalenvelaz46026" label="jalenvelaz46026">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="filthindabeauty" label="filthindabeauty">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="claudemir0911" label="claudemir0911">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="jake_peck" label="jake_peck">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="norabra88894205" label="norabra88894205">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="teddyallen" label="teddyallen">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="valeriaroblesbb" label="valeriaroblesbb">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="crazymindlabs" label="crazymindlabs">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="pgp1claudemir" label="pgp1claudemir">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="bafarawak" label="bafarawak">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="eodunayomi" label="eodunayomi">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="piratear3" label="piratear3">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="llamarseraffa" label="llamarseraffa">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="kielysinead80" label="kielysinead80">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="paulabitencourt" label="paulabitencourt">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="joshparker94" target="jalenvelaz46026" id="0" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="syl_guru" target="jalenvelaz46026" id="1" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="milesturne70424" target="jalenvelaz46026" id="2" weight="2.0">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="gucciwinterbear" target="jalenvelaz46026" id="3" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="lucoates2" target="jalenvelaz46026" id="4" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="pgp1claudemir" id="5" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="claudemir0911" id="6" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="crazymindlabs" id="7" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="filthindabeauty" id="8" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="teddyallen" id="9" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="llamarseraffa" id="10" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="kielysinead80" id="11" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="jake_peck" id="12" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="norabra88894205" id="13" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="piratear3" id="14" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="bafarawak" id="15" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="eodunayomi" id="16" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="paulabitencourt" id="17" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="jalenvelaz46026" target="valeriaroblesbb" id="18" weight="1.0">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
